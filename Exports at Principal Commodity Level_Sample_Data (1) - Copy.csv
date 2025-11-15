@@ -1,0 +1,204 @@
+Month,Year,State Name (state_name),State Code (state_code),Port for Import (port),Import Country (country),Principle Commodity Code (pc_code),Commodity Name (commodity),Quantity Unit Measurement (units),Value of commodity quantity (quantity),Value of commodity quantity in USD (dollars_value),Value of commodity quantity in INR (inr_value)
+4,2018,Tamil Nadu,33,Kattupalli Port/ Tiruvallur,China,J7,Books & Printing,None,0,268,17559
+5,2024,Andhra Pradesh,28,Ap Industrial Infra Ltd Ph,Germany,N7,ATM & Molding Machinery,Kgs,9,10672,890075
+3,2019,Haryana,6,Icd Faridabad,China,O9,Computer Hardware,None,0,5140,357108
+3,2022,Gujarat,24,Ahmedabad Air Cargo Complex,Turkey,N6,Dairy Machinery,None,0,33974,2590324
+4,2018,Tamil Nadu,33,Sez Nokia Chennai,China,N6,Dairy Machinery,None,0,3385,222174
+10,2021,West Bengal,19,Jaigaon,Bhutan,K9,Plastic Sheets & Films,Kgs,10994,11740,879471
+6,2021,Gujarat,24,Mundra,Poland,K9,Plastic Sheets & Films,Kgs,96600,37863,2785109
+5,2020,Tamil Nadu,33,Tuticorin Sea,China,P8,Cotton Textiles,None,0,667272,50485741
+8,2020,Madhya Pradesh,23,Icd  Pithampur  (Indore),China,N1,"Ac, Refrigeration Machnry Etc",None,0,24845,1855244
+6,2018,Maharashtra,27,Nhava Sheva Sea,Indonesia,N6,Dairy Machinery,None,0,997953,67654333
+12,2020,Delhi,7,Delhi (Icd),Singapore,I9,Othr Rubber Prodct Excpt Footw,None,0,279182,20546004
+4,2021,Maharashtra,27,Biotech Services Haveli Pune,U S A,N6,Dairy Machinery,None,0,1081374,80532313
+11,2018,Maharashtra,27,Nhava Sheva Sea,Turkey,Q3,"Manmade Yarn,Fabrics,Madeups",None,0,444417,31933212
+12,2019,Tamil Nadu,33,Chennai Sea,Malaysia,M2,Oth Non Ferous Metal And Prodc,None,0,9506,676735
+4,2023,Delhi,7,Delhi (Icd),Germany,P9,"Oth Txtl Yrn, Fbric Mdup Artcl",None,0,117932,9672824
+9,2019,Tamil Nadu,33,Chennai Sea,Sri Lanka,N1,"Ac, Refrigeration Machnry Etc",None,0,88653,6323928
+5,2022,Tamil Nadu,33,Elcot Limited (Hosur),Malaysia,O9,Computer Hardware,None,0,6278,485415
+4,2019,Gujarat,24,Mundra,Brazil,N6,Dairy Machinery,None,0,367002,25480000
+9,2020,Delhi,7,Delhi (Icd),France,L4,Products Of Iron And Steel,None,0,8647,635413
+5,2022,Maharashtra,27,"Arshiya Intl. Ftwz-Sez, Raigad",Singapore,I7,Residul Chemicl And Alled Prod,None,0,71868,5556791
+1,2024,West Bengal,19,Kolkata Air,Italy,K4,Optical Items (Incl.Lens Etc),None,0,377299,31361517
+4,2021,Karnataka,29,Icd Bangalore,Japan,L6,Copper And Prdcts Made Of Copr,None,0,653701,48682569
+8,2022,Maharashtra,27,Nhava Sheva Sea,Malaysia,N8,"Nucler Reactr, Indl Boilr, Prt",None,0,59591,4740739
+11,2023,Karnataka,29,Icd Bangalore,Netherland,N6,Dairy Machinery,None,0,886237,73821739
+7,2024,Maharashtra,27,Dpcc Mumbai,Singapore,G5,"Pearl, Precs, Semiprecs Stones",None,0,289300,24183973
+1,2024,Karnataka,29,"Kiadb Aerospace Sez,Bangalore",France,N6,Dairy Machinery,None,0,890,73951
+3,2020,Maharashtra,27,Mumbai Air,Korea,H8,"Drug Formulations, Biologicals",Kgs,2741,1031163,76667690
+3,2018,Maharashtra,27,Mumbai Air,Unspecified,N7,ATM & Molding Machinery,None,0,12343,802547
+10,2018,Tamil Nadu,33,Chennai Sea,Taiwan,L6,Copper And Prdcts Made Of Copr,None,0,726692,53507975
+9,2022,Gujarat,24,Epz/Sez Surat,U K,Q3,"Manmade Yarn,Fabrics,Madeups",None,0,13437,1078052
+8,2020,Delhi,7,Delhi Air,Japan,J7,Books & Printing,None,0,40694,3038665
+1,2024,Tamil Nadu,33,Chennai Air,Malaysia,O9,Computer Hardware,None,0,13570520,1127995318
+1,2023,Telangana,36,Icd Hyderabad,Singapore,I7,Residul Chemicl And Alled Prod,None,0,8803,720945
+11,2022,Rajasthan,8,Jaipur A.C.,Kenya,G5,"Pearl, Precs, Semiprecs Stones",None,0,38531,3152236
+3,2023,Tamil Nadu,33,Chennai Sea,Korea,L1,"Stationry/Offce, School Supply",None,0,3165,260428
+4,2021,Telangana,36,Hyderabad Airport,U S A,K4,Optical Items (Incl.Lens Etc),None,0,10776,802528
+5,2019,Tamil Nadu,33,Chennai Air,Bangladesh,M2,Oth Non Ferous Metal And Prodc,None,0,2584,180281
+1,2023,Maharashtra,27,Mumbai Air,France,N6,Dairy Machinery,None,0,2413036,197626741
+7,2022,Uttar Pradesh,9,Arshiya Northern Ftwzltd Noida,U K,N1,"Ac, Refrigeration Machnry Etc",None,0,10103,804204
+11,2019,Kerala,32,Sez Cochin,Malaysia,N6,Dairy Machinery,None,0,805,57496
+8,2022,Maharashtra,27,Mumbai Air,Canada,L1,"Stationry/Offce, School Supply",None,0,67,5359
+4,2021,Tamil Nadu,33,Icd Irungattukottai,Japan,N1,"Ac, Refrigeration Machnry Etc",None,0,331076,24655975
+2,2020,Uttar Pradesh,9,Cfs Albatross/Icd Dadri,Germany,I7,Residul Chemicl And Alled Prod,None,0,2402,171738
+11,2019,Tamil Nadu,33,Chennai Air,U A E,L8,"Nickel, Product Made Of Nickel",Ton,0,4050,289347
+3,2024,Delhi,7,Delhi (Icd),Germany,P8,Cotton Textiles,None,0,7553,626896
+12,2021,Andhra Pradesh,28,Ramki Pharma City (India) Pvt,U S A,H8,"Drug Formulations, Biologicals",Kgs,0,261,19650
+4,2024,Maharashtra,27,Mumbai Air,Malaysia,N6,Dairy Machinery,None,0,197762,16494448
+9,2023,Gujarat,24,Mundra,China,O9,Computer Hardware,None,0,6045224,502040728
+9,2021,Gujarat,24,Ahmedabad Air Cargo Complex,Turkey,N6,Dairy Machinery,None,0,34335,2525792
+6,2021,Telangana,36,Icd Hyderabad,China,M6,"Hnd Tool, Cttng Tool Of Metals",None,0,812060,59733735
+7,2024,Telangana,36,Hyderabad Airport,Germany,O6,"Railwy Trnsprt Equipmnts, Prts",None,0,294806,24644234
+2,2024,West Bengal,19,Kolkata Air,Austria,L4,Products Of Iron And Steel,None,0,2091,173441
+7,2023,Maharashtra,27,Mumbai Air,U S A,J7,Books & Printing,None,0,277144,22767959
+4,2021,Tamil Nadu,33,Icd Irungattukottai,Belgium,L5,"Aluminium, Products Of Aluminm",Ton,218,356389,26541095
+7,2021,Andhra Pradesh,28,Visakhapatnam Sea,Canada,I7,Residul Chemicl And Alled Prod,None,0,87613,6529551
+3,2018,Andhra Pradesh,28,Krishnapatnam,China,N4,Electric Machinery And Equipme,None,0,741019,48182020
+2,2020,Gujarat,24,Mundra,Croatia,I7,Residul Chemicl And Alled Prod,None,0,25231,1803750
+3,2019,Gujarat,24,Ahmedabad Air Cargo Complex,Italy,L6,Copper And Prdcts Made Of Copr,None,0,5881,408595
+5,2021,Delhi,7,Delhi Air,Italy,G9,Gold And Oth Precs Metl Jwlery,Kgs,115804,290178,21260689
+5,2024,Maharashtra,27,Seepz,Singapore,L6,Copper And Prdcts Made Of Copr,None,0,40332,3363677
+4,2020,Maharashtra,27,Telegaon,China,N6,Dairy Machinery,None,0,504203,38438704
+2,2021,Uttar Pradesh,9,Cfs Albatross/Icd Dadri,Japan,M2,Oth Non Ferous Metal And Prodc,None,0,4696,341653
+3,2024,Delhi,7,Delhi (Icd),Japan,I9,Othr Rubber Prodct Excpt Footw,None,0,1888246,156719904
+3,2021,Gujarat,24,Pipavab(Vicyor),Brazil,L4,Products Of Iron And Steel,None,0,2801,203921
+5,2024,Uttar Pradesh,9,"Icd Patparganj, Gazipur, Nr Ga",Taiwan,N6,Dairy Machinery,None,0,346116,28865934
+4,2020,Punjab,3,"Icd Sahnewal, Grfl",Germany,I7,Residul Chemicl And Alled Prod,None,0,64695,4932084
+3,2019,Tamil Nadu,33,Chennai Sea,U A E,L5,"Aluminium, Products Of Aluminm",Ton,682,1545132,107353627
+1,2020,Gujarat,24,Icd Sabarmati,Italy,I7,Residul Chemicl And Alled Prod,None,0,81043,5779468
+12,2019,Maharashtra,27,Mumbai Air,Germany,I7,Residul Chemicl And Alled Prod,None,0,7951563,566092442
+7,2018,Delhi,7,Cfs Patparganj,China,J3,"Graphite, Explsivs And Accesor",Kgs,9040,53458,3672198
+2,2023,Rajasthan,8,Icd Kanakpura,Taiwan,K9,Plastic Sheets & Films,Kgs,120,4384,362120
+12,2021,Delhi,7,Cfs Patparganj,Vietnam,Q6,Rmg Cotton Incl Accessories,None,0,16561,1248262
+5,2020,Haryana,6,Icd Piyala Ballagarh,Spain,M1,Zinc And Products Made Of Zinc,Ton,26,42723,3232445
+11,2018,Uttar Pradesh,9,"Icd Panki, Up",China,N4,Electric Machinery And Equipme,None,0,22396,1609249
+2,2023,Tamil Nadu,33,Chennai Air,Spain,M2,Oth Non Ferous Metal And Prodc,Kgs,71,5257,434246
+10,2023,Tamil Nadu,33,Chennai Epz,Singapore,I7,Residul Chemicl And Alled Prod,None,0,182370,15179636
+9,2023,Maharashtra,27,Dpcc Mumbai,Canada,G5,"Pearl, Precs, Semiprecs Stones",None,0,150691,12514488
+5,2019,Karnataka,29,Bangalore Airport,France,H5,"Bulk Drugs, Drug Intermediates",Kgs,161,694468,48455200
+8,2018,Andhra Pradesh,28,Sri City Pvt Ltd,Poland,N6,Dairy Machinery,None,0,51128,3555799
+6,2023,West Bengal,19,Kolkata Air,Puerto Rico,I9,Othr Rubber Prodct Excpt Footw,None,0,1130,92933
+7,2020,Karnataka,29,Bangalore Airport,Belgium,L8,"Nickel, Product Made Of Nickel",Ton,0,3771,282783
+4,2019,Maharashtra,27,Nhava Sheva Sea,Israel,Q3,"Manmade Yarn,Fabrics,Madeups",None,0,13007,903025
+9,2022,Uttar Pradesh,9,Sez Noida,China,G5,"Pearl, Precs, Semiprecs Stones",None,0,6894,553105
+1,2023,Uttar Pradesh,9,Icd Noida-Dadri,Korea,L6,Copper And Prdcts Made Of Copr,None,0,447873,36680638
+10,2019,Delhi,7,Delhi (Icd),Vietnam,M6,"Hnd Tool, Cttng Tool Of Metals",None,0,11138,791256
+12,2018,Delhi,7,Delhi Air,U A E,N4,Electric Machinery And Equipme,None,0,698383,49397384
+8,2018,Maharashtra,27,Mumbai Air,Netherland,N6,Dairy Machinery,None,0,812885,56533307
+12,2022,Gujarat,24,Icd Sabarmati,Germany,L5,"Aluminium, Products Of Aluminm",Ton,326,728039,60037130
+1,2024,West Bengal,19,Kolkata Air,China,K9,Plastic Sheets & Films,Kgs,1545,15173,1261182
+2,2018,Gujarat,24,Mundra,Belgium,O6,"Railwy Trnsprt Equipmnts, Prts",None,0,5002,322000
+6,2018,Gujarat,24,Ahmedabad Air Cargo Complex,U K,M2,Oth Non Ferous Metal And Prodc,None,0,3289,222997
+7,2022,Haryana,6,Icd Garhiharsaru,Philippines,K9,Plastic Sheets & Films,Kgs,786,3378,268894
+2,2019,Tamil Nadu,33,Chennai Air,U S A,Q3,"Manmade Yarn,Fabrics,Madeups",None,0,93056,6627629
+3,2018,Tamil Nadu,33,Icd Irungattukottai,Turkey,N6,Dairy Machinery,None,0,133527,8682115
+12,2021,Maharashtra,27,"Arshiya Intl. Ftwz-Sez, Raigad",Russia,N4,Electric Machinery And Equipme,None,0,3648,274976
+3,2024,Kerala,32,Cessana Business Park Cochin,Vietnam,O9,Computer Hardware,None,0,9255,768173
+12,2022,Tamil Nadu,33,Chennai Air,Hong Kong,L5,"Aluminium, Products Of Aluminm",Ton,1,301143,24833584
+1,2019,Haryana,6,Icd Garhiharsaru,Singapore,N1,"Ac, Refrigeration Machnry Etc",None,0,167316,11834779
+6,2022,Maharashtra,27,Mumbai Air,Austria,H5,"Bulk Drugs, Drug Intermediates",Kgs,4283,337400,26342377
+9,2022,Gujarat,24,Mundra,Turkey,L4,Products Of Iron And Steel,None,0,157263,12617471
+12,2019,Karnataka,29,Icd Bangalore,Hong Kong,K9,Plastic Sheets & Films,Kgs,21474,267066,19013116
+6,2021,Karnataka,29,Bangalore Airport,Denmark,O9,Computer Hardware,None,0,3141,231060
+5,2024,Tamil Nadu,33,Chennai Sea,Vietnam,H5,"Bulk Drugs, Drug Intermediates",Kgs,17600,257862,21505579
+3,2022,Telangana,36,Hyderabad Airport,Japan,N7,ATM & Molding Machinery,Kgs,2,2305,175768
+4,2019,Maharashtra,27,Telegaon,China,I9,Othr Rubber Prodct Excpt Footw,None,0,76,5273
+11,2018,Punjab,3,Icd Ludhiana,Taiwan,N4,Electric Machinery And Equipme,None,0,3837,275681
+3,2019,Maharashtra,27,Nhava Sheva Sea,Australia,O6,"Railwy Trnsprt Equipmnts, Prts",None,0,98336,6832225
+10,2021,Telangana,36,"Gmr Hyd. Aviation Ltd, Sez",Singapore,L8,"Nickel, Product Made Of Nickel",Ton,0,30,2261
+10,2023,Tamil Nadu,33,Chennai Air,Hong Kong,J1,Footwear Of Rubber/Canvas Etc.,None,0,8309,691598
+12,2018,Kerala,32,Cochin Airport,U S A,N1,"Ac, Refrigeration Machnry Etc",None,0,109639,7754915
+1,2020,Tamil Nadu,33,Sipct Ele Hw Hite Sez Oragadam,Israel,L6,Copper And Prdcts Made Of Copr,None,0,1588,113256
+12,2022,Uttar Pradesh,9,Cfs Startrack Dadri,China,O9,Computer Hardware,None,0,48137,3969600
+11,2021,Karnataka,29,Bangalore Airport,China,I7,Residul Chemicl And Alled Prod,None,0,4439570,330732393
+9,2022,Delhi,7,Delhi Air,Turkey,P9,"Oth Txtl Yrn, Fbric Mdup Artcl",None,0,10847,870310
+1,2021,Gujarat,24,Mundra,Qatar,I9,Othr Rubber Prodct Excpt Footw,None,0,69418,5075144
+10,2019,Maharashtra,27,Nhava Sheva Sea,Poland,L5,"Aluminium, Products Of Aluminm",Ton,9,612355,43501364
+5,2018,West Bengal,19,Kolkata Air,China,G5,"Pearl, Precs, Semiprecs Stones",None,0,13303,898491
+10,2018,Gujarat,24,Mundra,South Africa,M1,Zinc And Products Made Of Zinc,Ton,41,86012,6333227
+5,2023,Maharashtra,27,Mumbai Air,Mexico,K9,Plastic Sheets & Films,Kgs,353,31926,2628873
+12,2021,Uttar Pradesh,9,Cgml Dadri,Netherland,L6,Copper And Prdcts Made Of Copr,None,0,69979,5274525
+9,2018,Gujarat,24,"Pharma Dev By Zydus, Ahmedabad",Belgium,H8,"Drug Formulations, Biologicals",Kgs,2,1603,115740
+3,2024,West Bengal,19,Kolkata Air,Netherland,O9,Computer Hardware,None,0,148647,12337296
+6,2024,Karnataka,29,Kiadb Pharmaceutical Sez,China,N1,"Ac, Refrigeration Machnry Etc",None,0,67,5564
+11,2021,West Bengal,19,Kolkata Sea,Brazil,I7,Residul Chemicl And Alled Prod,None,0,156763,11678306
+12,2018,Uttar Pradesh,9,"Icd Panki, Up",China,M6,"Hnd Tool, Cttng Tool Of Metals",None,0,907,64162
+5,2022,West Bengal,19,Kolkata Sea,Germany,L6,Copper And Prdcts Made Of Copr,None,0,597719,46215229
+6,2018,Tamil Nadu,33,Sipct Ele Hw Hite Sez Oragadam,China,N7,ATM & Molding Machinery,None,0,494,33517
+7,2020,Tamil Nadu,33,Icd Tuticorin,Japan,N6,Dairy Machinery,None,0,521768,39129175
+7,2024,Karnataka,29,Bangalore Airport,Netherland,O9,Computer Hardware,None,0,647901,54161066
+8,2023,Karnataka,29,Quest Sez Balgaom Karnataka,Poland,L4,Products Of Iron And Steel,None,0,90359,7480421
+1,2019,Delhi,7,Delhi (Icd),Thailand,J7,Books & Printing,None,0,95028,6721595
+7,2020,Gujarat,24,Icd Sabarmati,Austria,N4,Electric Machinery And Equipme,None,0,91359,6851334
+9,2021,Tamil Nadu,33,Mahindra City Auto Anci Sez Tn,Switzerland,M6,"Hnd Tool, Cttng Tool Of Metals",None,0,6540,481087
+11,2019,Karnataka,29,Bangalore Airport,Russia,N6,Dairy Machinery,None,0,30088,2149855
+4,2024,Delhi,7,Delhi Air,Ireland,H5,"Bulk Drugs, Drug Intermediates",Kgs,450,6234,519937
+9,2019,Maharashtra,27,Nhava Sheva Sea,Italy,I7,Residul Chemicl And Alled Prod,None,0,11691076,833967691
+4,2024,Uttar Pradesh,9,Star Track Terminal Pvt Ltd Ic,U A E,L5,"Aluminium, Products Of Aluminm",Ton,263,513989,42869696
+1,2022,Maharashtra,27,Mumbai Air,Vietnam,N4,Electric Machinery And Equipme,None,0,55447,4127558
+2,2018,West Bengal,19,Kolkata Air,Korea,L6,Copper And Prdcts Made Of Copr,None,0,11840,762200
+12,2023,Rajasthan,8,Jaipur A.C.,U S A,G9,Gold And Oth Precs Metl Jwlery,Kgs,35242,527615,43939011
+11,2018,Karnataka,29,Icd Bangalore,Sri Lanka,J1,Footwear Of Rubber/Canvas Etc.,None,0,15834,1137704
+12,2022,Gujarat,24,Ahmedabad Air Cargo Complex,U S A,H5,"Bulk Drugs, Drug Intermediates",Kgs,93,92073,7592743
+12,2023,Maharashtra,27,Mumbai Sea,China,F3,"Granit, Natrl Stone And Prodct",Kgs,288,214,17860
+8,2022,Haryana,6,Icd Garhiharsaru,Korea,N7,ATM & Molding Machinery,Kgs,82850,1142898,90923250
+5,2020,Maharashtra,27,Icd Borkhedi,Unspecified,S4,Cotton Raw Incld. Waste,Ton,25,19373,1465752
+8,2023,Telangana,36,Hyderabad Airport,U K,N3,"Cranes, Lifts And Winches",None,0,2927,242343
+9,2018,Tamil Nadu,33,Chennai Air,Italy,F3,"Granit, Natrl Stone And Prodct",Kgs,47,9339,674436
+1,2020,Tamil Nadu,33,Chennai Sea,China,L4,Products Of Iron And Steel,None,0,16762421,1195391973
+6,2018,West Bengal,19,Kolkata Air,France,I7,Residul Chemicl And Alled Prod,None,0,1682,114016
+1,2019,Delhi,7,Delhi Air,Czech ,N6,Dairy Machinery,None,0,19031,1346101
+7,2024,Maharashtra,27,Mumbai Air,Turkey,I7,Residul Chemicl And Alled Prod,None,0,12355,1032795
+3,2024,Tamil Nadu,33,Chennai Sea,Taiwan,O9,Computer Hardware,None,0,10857908,901180238
+6,2022,Andhra Pradesh,28,Ramki Pharma City (India) Pvt,Belgium,I7,Residul Chemicl And Alled Prod,None,0,18,1424
+1,2019,Maharashtra,27,Seepz,Switzerland,K9,Plastic Sheets & Films,Kgs,1,1278,90422
+6,2020,Tamil Nadu,33,Sipct Ele Hw Hite Sez Oragadam,U A E,L5,"Aluminium, Products Of Aluminm",Ton,0,125,9482
+12,2018,Uttar Pradesh,9,Sez Moradabad,Baharain Is,L5,"Aluminium, Products Of Aluminm",Ton,114,289500,20476627
+1,2019,Tamil Nadu,33,Chennai Air,France,N1,"Ac, Refrigeration Machnry Etc",None,0,451940,31967004
+9,2022,Maharashtra,27,Cfs Nashik,U A E,D5,Misc Processed Items,None,0,44639,3581424
+10,2019,Kerala,32,Cochin Sea,China,Q3,"Manmade Yarn,Fabrics,Madeups",None,0,340015,24154442
+8,2018,Telangana,36,Lanco Hills Tech Prk Manikonda,Korea,N6,Dairy Machinery,None,0,26231,1824240
+4,2022,Delhi,7,Delhi Air,Thailand,L4,Products Of Iron And Steel,None,0,95544,7277409
+4,2020,Karnataka,29,Icd Bangalore,Thailand,I9,Othr Rubber Prodct Excpt Footw,None,0,169163,12896424
+5,2019,Maharashtra,27,Serum Bio Pharm Park  Sez Pune,U S A,M6,"Hnd Tool, Cttng Tool Of Metals",None,0,606,42269
+12,2020,West Bengal,19,Petrapole Land,Bangladesh,P8,Cotton Textiles,None,0,5179042,381144359
+3,2018,Kerala,32,Cochin Sea,China,O5,Motor Vehicle/Cars,Nos,3,22871,1487132
+2,2024,West Bengal,19,Kolkata Sea,U K,M2,Oth Non Ferous Metal And Prodc,None,0,119391,9905054
+4,2018,Tamil Nadu,33,Flextronics Techn Sez  Sriperu,China,I7,Residul Chemicl And Alled Prod,None,0,21904,1437717
+4,2018,Maharashtra,27,Seepz,Italy,L6,Copper And Prdcts Made Of Copr,None,0,70770,4645084
+12,2020,Uttar Pradesh,9,Cfs Albatross/Icd Dadri,Italy,N6,Dairy Machinery,None,0,103874,7644476
+7,2018,Gujarat,24,Icd Sabarmati,Belgium,Q3,"Manmade Yarn,Fabrics,Madeups",None,0,885,60811
+12,2018,Tamil Nadu,33,Chennai Air,China,L5,"Aluminium, Products Of Aluminm",Ton,86,7865998,556370698
+3,2022,Andhra Pradesh,28,Kakinada Sea,Singapore,N7,ATM & Molding Machinery,Kgs,40934,1092176,83272424
+12,2021,Uttar Pradesh,9,Cgml Dadri,China,L6,Copper And Prdcts Made Of Copr,None,0,616038,46432291
+11,2021,West Bengal,19,Kolkata Air,U S A,I7,Residul Chemicl And Alled Prod,None,0,12865,958365
+3,2024,Tamil Nadu,33,Chennai Sea,Sri Lanka,Q3,"Manmade Yarn,Fabrics,Madeups",None,0,29874,2479481
+6,2018,Karnataka,29,Icd Bangalore,New Zealand,N7,ATM & Molding Machinery,None,0,39427,2672897
+10,2019,Tamil Nadu,33,Kattupalli Port/ Tiruvallur,China,N1,"Ac, Refrigeration Machnry Etc",None,0,811169,57624929
+3,2022,Telangana,36,Icd Hyderabad,China,L5,"Aluminium, Products Of Aluminm",Ton,57,374036,28518210
+2,2024,Maharashtra,27,Nhava Sheva Sea,Switzerland,N7,ATM & Molding Machinery,Kgs,11,1525,126547
+5,2018,Gujarat,24,Mundra,Vietnam,M1,Zinc And Products Made Of Zinc,Ton,164,479203,32365112
+2,2020,Tamil Nadu,33,Chennai Sea,Belgium,P8,Cotton Textiles,None,0,30226,2160840
+9,2021,Tamil Nadu,33,Chennai Air,Denmark,N7,ATM & Molding Machinery,Kgs,5059,260294,19148140
+3,2020,Delhi,7,Delhi Air,Korea,I7,Residul Chemicl And Alled Prod,None,0,297561,22123844
+11,2018,Gujarat,24,"Hazira Port, Surat",Saudi Arab,I9,Othr Rubber Prodct Excpt Footw,None,0,243932,17527540
+11,2018,Tamil Nadu,33,Icd Irungattukottai,Hong Kong,M2,Oth Non Ferous Metal And Prodc,None,0,114,8181
+11,2023,Haryana,6,Icd Sonipat,Ireland,L5,"Aluminium, Products Of Aluminm",Ton,21,35622,2967216
+8,2021,Delhi,7,Cfs Patparganj,Romania,I9,Othr Rubber Prodct Excpt Footw,None,0,5941,440728
+1,2022,Gujarat,24,Ahmedabad Air Cargo Complex,Italy,N4,Electric Machinery And Equipme,None,0,33957,2527832
+1,2019,Haryana,6,"Icd Palwal, Bhagola-Janauli",Kuwait,L5,"Aluminium, Products Of Aluminm",Ton,17,30939,2188380
+3,2021,Uttar Pradesh,9,Cfs Albatross/Icd Dadri,Hong Kong,L6,Copper And Prdcts Made Of Copr,None,0,176971,12882216
+3,2024,Kerala,32,Cochin Airport,Germany,K9,Plastic Sheets & Films,Kgs,70,5165,428662
+3,2018,Kerala,32,Trivandrum Airport,Hungary,O9,Computer Hardware,None,0,86228,5606641
+9,2020,Gujarat,24,"Pharma Dev By Zydus, Ahmedabad",U S A,L4,Products Of Iron And Steel,None,0,83,6072
+4,2020,Tamil Nadu,33,Chennai Sea,U K,N1,"Ac, Refrigeration Machnry Etc",None,0,12527,955042
+9,2019,Tamil Nadu,33,Suzlon Ap Infra Sez Coimbatore,China,M2,Oth Non Ferous Metal And Prodc,None,0,23,1655
+7,2019,Telangana,36,Hyderabad Airport,Ukraine,H8,"Drug Formulations, Biologicals",Kgs,0,1520,104616
+1,2021,Karnataka,29,Bangalore Airport,Turkey,N6,Dairy Machinery,None,0,54419,3978545
+5,2023,Gujarat,24,Sez Dahej,Russia,I7,Residul Chemicl And Alled Prod,None,0,35816,2949216
+9,2018,Maharashtra,27,Nhava Sheva Sea,Belgium,L5,"Aluminium, Products Of Aluminm",Ton,406,1816344,131167857
+5,2018,Karnataka,29,Bangalore Airport,Romania,L4,Products Of Iron And Steel,None,0,354,23921
+1,2023,West Bengal,19,Kolkata Air,Sweden,K4,Optical Items (Incl.Lens Etc),None,0,116,9492
+2,2022,Andhra Pradesh,28,Apiic Limited(Naidupeta),Italy,L4,Products Of Iron And Steel,None,0,14756,1106752
+9,2022,West Bengal,19,Kolkata Air,U A E,M6,"Hnd Tool, Cttng Tool Of Metals",None,0,3144,252223

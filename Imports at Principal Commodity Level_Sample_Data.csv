@@ -1,0 +1,501 @@
+Month (month),State Name (state_name),State Code (state_code),Port for Import (port),Import Country (country),Principle Commodity Code (pc_code),Commodity Name (commodity),Quantity Unit Measurement (units),Value of commodity quantity (quantity),Value of commodity quantity in USD (dollars_value),Value of commodity quantity in INR (inr_value)
+01-04-18,Tamil Nadu,33,Kattupalli Port/ Tiruvallur,China P Rp,J7,"Books, Publications And Prntng",None,0,268,17559
+01-09-19,Tamil Nadu,33,Chennai Sea,France,L3,Iron And Steel,Ton,651,797099,56860022
+01-05-24,Andhra Pradesh,28,Ap Industrial Infra Ltd Ph,Germany,N7,"Atm, Injctng Mlding Mchnry Etc",Kgs,9,10672,890075
+01-06-21,Maharashtra,27,Serum Bio Pharm Park  Sez Pune,Switzerland,M8,Medical And Scientific Instrum,None,0,229108,16852802
+01-07-20,Tamil Nadu,33,Tuticorin Sea,Sudan,K2,Other Wood And Wood Products,None,0,14955,1121491
+01-09-23,Tamil Nadu,33,Sipct Hitechcity Sriperumbudur,Thailand,P3,Electronics Instruments,None,0,39959,3318517
+01-04-21,Tamil Nadu,33,Mahindra City It Sez Tamil Ndu,Korea Rp,P4,Telecom Instruments,None,0,6931,516161
+01-11-23,Tamil Nadu,33,Flextronics Techn Sez  Sriperu,China P Rp,L2,Other Plastic Items,None,0,371337,30931652
+01-03-19,Haryana,6,Icd Faridabad,China P Rp,O9,"Computer Hardware, Peripherals",None,0,5140,357108
+01-03-22,Gujarat,24,Ahmedabad Air Cargo Complex,Turkey,N6,Indl. Machnry For Dairy Etc,None,0,33974,2590324
+01-05-19,Delhi,7,Cfs Patparganj,U S A,S1,Handcrfs(Excl.Handmade Crpts),None,0,5362,374138
+01-06-22,Telangana,36,Hyderabad Airport,Singapore,I3,Organic Chemicals,Kgs,1,552,43076
+01-09-22,Maharashtra,27,Nhava Sheva Sea,Germany,L3,Iron And Steel,Ton,2380,7102233,569823492
+01-04-18,Tamil Nadu,33,Sez Nokia Chennai,China P Rp,N6,Indl. Machnry For Dairy Etc,None,0,3385,222174
+01-05-20,Punjab,3,"Icd Sahnewal, Grfl",Korea Rp,P6,Manmade Staple Fibre,Kgs,66840,78908,5970194
+01-11-20,Maharashtra,27,Nhava Sheva Sea,Japan,O3,Pumps Of All Types,None,0,792299,58804240
+01-04-24,Tamil Nadu,33,Chennai Sea,Romania,M4,Electrodes,Kgs,121,2589,215925
+01-10-21,West Bengal,19,Jaigaon,Bhutan,K9,"Plastc Sht, Film, Plts Etc",Kgs,10994,11740,879471
+01-01-20,West Bengal,19,Kolkata Sea,Vietnam Soc Rep,B1,Spices,Kgs,93100,274684,19588781
+01-06-21,Gujarat,24,Mundra,Poland,K9,"Plastc Sht, Film, Plts Etc",Kgs,96600,37863,2785109
+01-03-21,Andhra Pradesh,28,Sri City Pvt Ltd,U S A,L3,Iron And Steel,Ton,0,15655,1139567
+01-08-22,Haryana,6,Icd Sonipat,Thailand,J9,"Paper, Paper Board And Product",None,0,225215,17916947
+01-03-19,Maharashtra,27,Icd Tumb,Canada,L3,Iron And Steel,Ton,20,21842,1517582
+01-08-22,Tamil Nadu,33,Chennai Air,Luxembourg,S6,Petroleum Products,Ton,0,5,404
+01-05-24,Maharashtra,27,Mumbai Air,Luxembourg,M8,Medical And Scientific Instrum,None,0,2217,184871
+01-05-21,Tamil Nadu,33,Chennai Sea,Malaysia,O3,Pumps Of All Types,None,0,162795,11927627
+01-01-19,Uttar Pradesh,9,Cfs Albatross/Icd Dadri,U S A,K1,Plywood And Allied Products,None,0,157321,11127802
+01-05-20,Tamil Nadu,33,Tuticorin Sea,China P Rp,P8,"Cotton Fabrics, Madeups Etc.",None,0,667272,50485741
+01-08-20,Madhya Pradesh,23,Icd  Pithampur  (Indore),China P Rp,N1,"Ac, Refrigeration Machnry Etc",None,0,24845,1855244
+01-06-18,Maharashtra,27,Nhava Sheva Sea,Indonesia,N6,Indl. Machnry For Dairy Etc,None,0,997953,67654333
+01-05-24,Punjab,3,Icd Ludhiana,Switzerland,J9,"Paper, Paper Board And Product",None,0,59196,4936907
+01-12-20,Delhi,7,Delhi (Icd),Singapore,I9,Othr Rubber Prodct Excpt Footw,None,0,279182,20546004
+01-04-21,Maharashtra,27,Biotech Services Haveli Pune,U S A,N6,Indl. Machnry For Dairy Etc,None,0,1081374,80532313
+01-11-18,Maharashtra,27,Nhava Sheva Sea,Turkey,Q3,"Manmade Yarn,Fabrics,Madeups",None,0,444417,31933212
+01-01-21,Tamil Nadu,33,Suzlon Ap Infra Sez Coimbatore,France,N5,Ic Engines And Parts,None,0,6261,457739
+01-12-19,Delhi,7,Cfs Patparganj,Japan,J9,"Paper, Paper Board And Product",None,0,54027,3846350
+01-12-21,Uttar Pradesh,9,Icd Modinagar,U K,J9,"Paper, Paper Board And Product",None,0,309613,23336293
+01-04-21,West Bengal,19,Kolkata Sea,Indonesia,M8,Medical And Scientific Instrum,None,0,42136,3137957
+01-05-22,Gujarat,24,Ahmedabad Air Cargo Complex,Japan,K7,Packaging Materials,Ton,0,4140,320134
+01-12-19,Tamil Nadu,33,Chennai Sea,Malaysia,M2,Oth Non Ferous Metal And Prodc,None,0,9506,676735
+01-04-23,Delhi,7,Delhi (Icd),Germany,P9,"Oth Txtl Yrn, Fbric Mdup Artcl",None,0,117932,9672824
+01-09-19,Tamil Nadu,33,Chennai Sea,Sri Lanka Dsr,N1,"Ac, Refrigeration Machnry Etc",None,0,88653,6323928
+01-06-23,Maharashtra,27,Telegaon,U K,K7,Packaging Materials,Ton,0,189,15502
+01-05-22,Tamil Nadu,33,Elcot Limited (Hosur),Malaysia,O9,"Computer Hardware, Peripherals",None,0,6278,485415
+01-04-19,Gujarat,24,Mundra,Brazil,N6,Indl. Machnry For Dairy Etc,None,0,367002,25480000
+01-11-22,Maharashtra,27,Mumbai Air,Spain,P1,Consumer Electronics,None,0,49612,4058757
+01-06-21,Tamil Nadu,33,Chennai Sea,Belgium,E6,Alcoholic Beverages,Ltr,50,2217,163086
+01-05-22,Tamil Nadu,33,Ennore Sea,Japan,M3,Auto Components/Parts,None,0,195627,15125768
+01-09-20,Delhi,7,Delhi (Icd),France,L4,Products Of Iron And Steel,None,0,8647,635413
+01-07-21,Maharashtra,27,Nhava Sheva Sea,Libya,J9,"Paper, Paper Board And Product",None,0,7052,525548
+01-12-23,West Bengal,19,"Icd Durgapur, Wb",Singapore,L3,Iron And Steel,Ton,26,1224744,101995094
+01-08-18,Gujarat,24,Mundra,Sri Lanka Dsr,I5,Cosmetics And Toiletries,None,0,61814,4298921
+01-05-22,Maharashtra,27,"Arshiya Intl. Ftwz-Sez, Raigad",Singapore,I7,Residul Chemicl And Alled Prod,None,0,71868,5556791
+01-01-24,West Bengal,19,Kolkata Air,Italy,K4,Optical Items (Incl.Lens Etc),None,0,377299,31361517
+01-11-22,Maharashtra,27,Nhava Sheva Sea,Canada,J6,Glass And Glassware,None,0,140242,11473265
+01-04-21,Karnataka,29,Icd Bangalore,Japan,L6,Copper And Prdcts Made Of Copr,None,0,653701,48682569
+01-11-19,Rajasthan,8,Icd Thar Dry Port,Thailand,I5,Cosmetics And Toiletries,None,0,32949,2354251
+01-01-24,Haryana,6,Icd Garhiharsaru,China P Rp,P4,Telecom Instruments,None,0,823653,68462884
+01-01-22,Tamil Nadu,33,Icd Irungattukottai,France,K6,Moulded And Extruded Goods,None,0,514,38278
+01-08-22,Maharashtra,27,Nhava Sheva Sea,Malaysia,N8,"Nucler Reactr, Indl Boilr, Prt",None,0,59591,4740739
+01-04-20,Karnataka,29,Icd Bangalore,Singapore,P3,Electronics Instruments,None,0,224073,17082533
+01-04-20,Rajasthan,8,Icd Kanakpura,Guinea,ZZ,Other Commodities,None,0,26770,2040836
+01-11-23,Karnataka,29,Icd Bangalore,Netherland,N6,Indl. Machnry For Dairy Etc,None,0,886237,73821739
+01-07-24,Maharashtra,27,Dpcc Mumbai,Singapore,G5,"Pearl, Precs, Semiprecs Stones",None,0,289300,24183973
+01-08-22,Maharashtra,27,"Arshiya Intl. Ftwz-Sez, Raigad",Singapore,N5,Ic Engines And Parts,None,0,42107,3349810
+01-03-20,Delhi,7,Delhi Air,Germany,S6,Petroleum Products,Ton,1,4926,366233
+01-01-24,Karnataka,29,"Kiadb Aerospace Sez,Bangalore",France,N6,Indl. Machnry For Dairy Etc,None,0,890,73951
+01-03-20,Maharashtra,27,Mumbai Air,Korea Rp,H8,"Drug Formulations, Biologicals",Kgs,2741,1031163,76667690
+01-03-23,Tamil Nadu,33,J Matadee Chennai,Poland,M7,Machine Tools,None,0,15310,1259835
+01-05-18,Delhi,7,Delhi (Icd),Korea Rp,L2,Other Plastic Items,None,0,495804,33486307
+01-03-18,Maharashtra,27,Mumbai Air,Unspecified,N7,"Atm, Injctng Mlding Mchnry Etc",None,0,12343,802547
+01-07-21,Tamil Nadu,33,Tuticorin Sea,Brazil,K1,Plywood And Allied Products,None,0,403523,30073344
+01-10-18,Tamil Nadu,33,Chennai Sea,Taiwan,L6,Copper And Prdcts Made Of Copr,None,0,726692,53507975
+01-09-22,Gujarat,24,Epz/Sez Surat,U K,Q3,"Manmade Yarn,Fabrics,Madeups",None,0,13437,1078052
+01-12-21,Delhi,7,Delhi Air,France,M8,Medical And Scientific Instrum,None,0,4098187,308890608
+01-10-22,Kerala,32,Trivandrum Airport,Denmark,O1,Other Misc. Engineering Items,None,0,434,35768
+01-10-22,Karnataka,29,Bangalore Airport,France,ZZ,Other Commodities,None,0,286506,23590848
+01-08-20,Delhi,7,Delhi Air,Japan,J7,"Books, Publications And Prntng",None,0,40694,3038665
+01-02-21,Uttar Pradesh,9,Cfs Startrack Dadri,Indonesia,K1,Plywood And Allied Products,None,0,97854,7119521
+01-01-24,Tamil Nadu,33,Chennai Air,Malaysia,O9,"Computer Hardware, Peripherals",None,0,13570520,1127995318
+01-01-23,Telangana,36,Icd Hyderabad,Singapore,I7,Residul Chemicl And Alled Prod,None,0,8803,720945
+01-05-18,Delhi,7,Cfs Patparganj,U K,B1,Spices,Kgs,1440,20614,1392286
+01-11-22,Rajasthan,8,Jaipur A.C.,Kenya,G5,"Pearl, Precs, Semiprecs Stones",None,0,38531,3152236
+01-06-21,Maharashtra,27,Maha Airport Dev Corp Nagpur,Germany,O3,Pumps Of All Types,None,0,1400,103008
+01-01-18,Tamil Nadu,33,Chennai Air,Belgium,I5,Cosmetics And Toiletries,None,0,46035,2929529
+01-03-20,Karnataka,29,Newmangalore  Sea,China P Rp,J2,"Paint, Varnish And Allid Prodc",Kgs,60000,128394,9546212
+01-03-23,Tamil Nadu,33,Chennai Sea,Korea Rp,L1,"Stationry/Offce, School Supply",None,0,3165,260428
+01-04-21,Telangana,36,Hyderabad Airport,U S A,K4,Optical Items (Incl.Lens Etc),None,0,10776,802528
+01-02-22,Tamil Nadu,33,Acc Coimbatore,U Arab Emts,P2,Electronics Components,None,0,698,52386
+01-06-18,Tamil Nadu,33,Chennai Sea,Indonesia,I8,Auto Tyres And Tubes,Nos,3598,90966,6166845
+01-05-19,Tamil Nadu,33,Chennai Air,Bangladesh Pr,M2,Oth Non Ferous Metal And Prodc,None,0,2584,180281
+01-12-18,Tamil Nadu,33,Kattupalli Port/ Tiruvallur,Netherland,P3,Electronics Instruments,None,0,597835,42285547
+01-01-23,Maharashtra,27,Mumbai Air,France,N6,Indl. Machnry For Dairy Etc,None,0,2413036,197626741
+01-06-19,Tripura,16,Lcs Manu,Bangladesh Pr,J9,"Paper, Paper Board And Product",None,0,11893,825827
+01-07-22,Uttar Pradesh,9,Arshiya Northern Ftwzltd Noida,U K,N1,"Ac, Refrigeration Machnry Etc",None,0,10103,804204
+01-04-20,Kerala,32,Cochin Sea,Germany,I5,Cosmetics And Toiletries,None,0,100128,7633434
+01-12-22,Haryana,6,Icd Samalkha Panipat,Ireland,J9,"Paper, Paper Board And Product",None,0,36365,2998801
+01-11-19,Kerala,32,Sez Cochin,Malaysia,N6,Indl. Machnry For Dairy Etc,None,0,805,57496
+01-05-21,Tamil Nadu,33,Chennai Sea,Canada,N5,Ic Engines And Parts,None,0,1782,130497
+01-10-21,Uttar Pradesh,9,Icd Pakwara Moradabad/Meerut,U S A,K8,Plastic Raw Materials,Ton,513,133022,9965394
+01-08-22,Maharashtra,27,Mumbai Air,Canada,L1,"Stationry/Offce, School Supply",None,0,67,5359
+01-07-21,Karnataka,29,Newmangalore  Sea,Vietnam Soc Rep,I2,Inorganic Chemicals,Kgs,5164642,5194679,387143874
+01-10-22,Karnataka,29,Icd Bangalore,Taiwan,J6,Glass And Glassware,None,0,27985,2304295
+01-04-21,Tamil Nadu,33,Icd Irungattukottai,Japan,N1,"Ac, Refrigeration Machnry Etc",None,0,331076,24655975
+01-09-20,Delhi,7,Delhi Air,Canada,O4,"Aircraft, Spacecraft And Parts",None,0,79794,5863412
+01-07-19,West Bengal,19,Falta Epz,Taiwan,ZZ,Other Commodities,None,0,1461,100550
+01-12-18,Tamil Nadu,33,Chennai Air,Czech Republic,M7,Machine Tools,None,0,11938,844380
+01-02-20,Uttar Pradesh,9,Cfs Albatross/Icd Dadri,Germany,I7,Residul Chemicl And Alled Prod,None,0,2402,171738
+01-07-19,Karnataka,29,Bangalore Airport,Qatar,J6,Glass And Glassware,None,0,793,54537
+01-09-18,Karnataka,29,Manyata Ebpark B~Lore,U S A,O1,Other Misc. Engineering Items,None,0,67097,4845437
+01-11-19,Tamil Nadu,33,Chennai Air,U Arab Emts,L8,"Nickel, Product Made Of Nickel",Ton,0,4050,289347
+01-03-24,Delhi,7,Delhi (Icd),Germany,P8,"Cotton Fabrics, Madeups Etc.",None,0,7553,626896
+01-12-18,Maharashtra,27,Mumbai Air,South Africa,D3,Cocoa Products,Kgs,175,1139,80571
+01-12-21,Andhra Pradesh,28,Ramki Pharma City (India) Pvt,U S A,H8,"Drug Formulations, Biologicals",Kgs,0,261,19650
+01-04-24,Maharashtra,27,Mumbai Air,Malaysia,N6,Indl. Machnry For Dairy Etc,None,0,197762,16494448
+01-09-23,Gujarat,24,Mundra,China P Rp,O9,"Computer Hardware, Peripherals",None,0,6045224,502040728
+01-04-21,Tamil Nadu,33,Ennore Sea,Ukraine,K8,Plastic Raw Materials,Ton,354,461460,34365942
+01-09-21,Gujarat,24,Ahmedabad Air Cargo Complex,Turkey,N6,Indl. Machnry For Dairy Etc,None,0,34335,2525792
+01-06-21,Telangana,36,Icd Hyderabad,China P Rp,M6,"Hnd Tool, Cttng Tool Of Metals",None,0,812060,59733735
+01-02-20,Andhra Pradesh,28,Krishnapatnam,U S A,F1,"Coal,Coke And Briquittes Etc",Ton,73504,6106004,436509072
+01-07-24,Telangana,36,Hyderabad Airport,Germany,O6,"Railwy Trnsprt Equipmnts, Prts",None,0,294806,24644234
+01-02-24,West Bengal,19,Kolkata Air,Austria,L4,Products Of Iron And Steel,None,0,2091,173441
+01-07-23,Delhi,7,Delhi Air,Poland,I2,Inorganic Chemicals,Kgs,321,2949,242291
+01-07-23,Maharashtra,27,Mumbai Air,U S A,J7,"Books, Publications And Prntng",None,0,277144,22767959
+01-05-18,Tamil Nadu,33,Cheyyar Sez Cheeyar Tamilnadu,Spain,J2,"Paint, Varnish And Allid Prodc",Kgs,8800,23218,1568160
+01-07-21,Gujarat,24,Icd Vadodara/Baroda,Japan,F4,Processed Minerals,Kgs,20000,30917,2304180
+01-08-18,Uttar Pradesh,9,Cgml Dadri,Japan,ZZ,Other Commodities,None,0,141,9819
+01-06-18,West Bengal,19,Kolkata Air,Korea Rp,K8,Plastic Raw Materials,Ton,0,2089,141606
+01-04-21,Tamil Nadu,33,Icd Irungattukottai,Belgium,L5,"Aluminium, Products Of Aluminm",Ton,218,356389,26541095
+01-07-21,Andhra Pradesh,28,Visakhapatnam Sea,Canada,I7,Residul Chemicl And Alled Prod,None,0,87613,6529551
+01-03-18,Andhra Pradesh,28,Krishnapatnam,China P Rp,N4,Electric Machinery And Equipme,None,0,741019,48182020
+01-07-24,Tamil Nadu,33,Ennore Sea,Italy,P2,Electronics Components,None,0,46500,3887120
+01-02-20,Gujarat,24,Mundra,Croatia,I7,Residul Chemicl And Alled Prod,None,0,25231,1803750
+01-03-19,Gujarat,24,Ahmedabad Air Cargo Complex,Italy,L6,Copper And Prdcts Made Of Copr,None,0,5881,408595
+01-05-24,Tamil Nadu,33,Chennai Air,U K,H7,Dyes,Kgs,310,6118,510271
+01-12-23,Maharashtra,27,Nhava Sheva Sea,Jordan,C7,Fresh Fruits,Ton,30,181781,15138493
+01-06-24,Tamil Nadu,33,Tuticorin Sea,Lithuania,O3,Pumps Of All Types,None,0,387,32270
+01-01-22,Tamil Nadu,33,Chennai Epz,U S A,P2,Electronics Components,None,0,638319,47517444
+01-05-21,Delhi,7,Delhi Air,Italy,G9,Gold And Oth Precs Metl Jwlery,Kgs,115804,290178,21260689
+01-08-19,Delhi,7,Delhi Air,Vietnam Soc Rep,G2,Footwear Of Leather,None,0,203915,14507685
+01-09-18,Delhi,7,Delhi (Icd),Australia,J5,Ceramics And Allied Products,None,0,7312,528063
+01-09-18,Maharashtra,27,Nhava Sheva Sea,Germany,J9,"Paper, Paper Board And Product",None,0,3201023,231162857
+01-08-18,Maharashtra,27,Nhava Sheva Sea,Jordan,I2,Inorganic Chemicals,Kgs,180400,95224,6622484
+01-05-24,Maharashtra,27,Seepz,Singapore,L6,Copper And Prdcts Made Of Copr,None,0,40332,3363677
+01-10-19,Maharashtra,27,Nhava Sheva Sea,Italy,J4,"Cmnt, Clinkr And Asbstos Cmnt",Ton,0,2075,147414
+01-01-22,Tamil Nadu,33,Chennai Sea,Vietnam Soc Rep,I4,Other Miscellaenious Chemicals,Kgs,13994,453573,33764723
+01-04-20,Maharashtra,27,Telegaon,China P Rp,N6,Indl. Machnry For Dairy Etc,None,0,504203,38438704
+01-02-21,Uttar Pradesh,9,Cfs Albatross/Icd Dadri,Japan,M2,Oth Non Ferous Metal And Prodc,None,0,4696,341653
+01-02-22,Maharashtra,27,Mumbai Air,Iran,K7,Packaging Materials,Ton,0,20,1521
+01-10-21,Haryana,6,Icd Piyala Ballagarh,Hong Kong,L3,Iron And Steel,Ton,24,58169,4357749
+01-03-24,Delhi,7,Delhi (Icd),Japan,I9,Othr Rubber Prodct Excpt Footw,None,0,1888246,156719904
+01-04-19,Tamil Nadu,33,Chennai Sea,China P Rp,O1,Other Misc. Engineering Items,None,0,12029248,835159380
+01-03-21,Gujarat,24,Pipavab(Vicyor),Brazil,L4,Products Of Iron And Steel,None,0,2801,203921
+01-05-24,Uttar Pradesh,9,"Icd Patparganj, Gazipur, Nr Ga",Taiwan,N6,Indl. Machnry For Dairy Etc,None,0,346116,28865934
+01-01-18,Punjab,3,"Icd Sahnewal, Grfl",China P Rp,H1,Sports Goods,None,0,598343,38076673
+01-02-19,Uttar Pradesh,9,Icd Loni,Korea Rp,K8,Plastic Raw Materials,Ton,360,351090,25005251
+01-05-18,Andhra Pradesh,28,Brandix Indiaapparel Pvt Ltd,Sri Lanka Dsr,K7,Packaging Materials,Ton,11,288164,19462437
+01-04-20,Punjab,3,"Icd Sahnewal, Grfl",Germany,I7,Residul Chemicl And Alled Prod,None,0,64695,4932084
+01-09-18,West Bengal,19,Kolkata Sea,Malaysia,F2,Bulk Minerals And Ores,None,0,146232,10560163
+01-03-19,Tamil Nadu,33,Chennai Sea,U Arab Emts,L5,"Aluminium, Products Of Aluminm",Ton,682,1545132,107353627
+01-12-20,Telangana,36,Hyderabad Airport,Israel,K6,Moulded And Extruded Goods,None,0,2066,152026
+01-09-20,Tamil Nadu,33,Chennai Air,Germany,M8,Medical And Scientific Instrum,None,0,3659566,268911104
+01-08-23,Karnataka,29,"Brookebond P.Ltd, Kundalahalli",Israel,P4,Telecom Instruments,None,0,383,31684
+01-05-19,Karnataka,29,Bangalore Airport,Korea Rp,P4,Telecom Instruments,None,0,1941348,135453835
+01-02-22,Tamil Nadu,33,Chennai Air,U K,K7,Packaging Materials,Ton,0,5454,409057
+01-01-20,Gujarat,24,Icd Sabarmati,Italy,I7,Residul Chemicl And Alled Prod,None,0,81043,5779468
+01-12-19,Maharashtra,27,Mumbai Air,Germany,I7,Residul Chemicl And Alled Prod,None,0,7951563,566092442
+01-07-18,Delhi,7,Cfs Patparganj,China P Rp,J3,"Graphite, Explsivs And Accesor",Kgs,9040,53458,3672198
+01-02-23,Rajasthan,8,Icd Kanakpura,Taiwan,K9,"Plastc Sht, Film, Plts Etc",Kgs,120,4384,362120
+01-12-21,Delhi,7,Cfs Patparganj,Vietnam Soc Rep,Q6,Rmg Cotton Incl Accessories,None,0,16561,1248262
+01-03-19,Tamil Nadu,33,Chennai Air,U Arab Emts,I6,Essential Oils,Kgs,770,14176,984929
+01-05-20,Haryana,6,Icd Piyala Ballagarh,Spain,M1,Zinc And Products Made Of Zinc,Ton,26,42723,3232445
+01-07-18,Tamil Nadu,33,Chennai Air,Italy,I8,Auto Tyres And Tubes,Nos,4,702,48208
+01-09-20,Maharashtra,27,Mumbai Air,U S A,K1,Plywood And Allied Products,None,0,9336,686048
+01-05-19,Tamil Nadu,33,Kattupalli Port/ Tiruvallur,Singapore,N5,Ic Engines And Parts,None,0,6744960,470616779
+01-11-18,Uttar Pradesh,9,"Icd Panki, Up",China P Rp,N4,Electric Machinery And Equipme,None,0,22396,1609249
+01-02-20,Delhi,7,Delhi Air,Germany,P3,Electronics Instruments,None,0,4995916,357150576
+01-03-22,Tamil Nadu,33,Flextronics Techn Sez  Sriperu,China P Rp,L2,Other Plastic Items,None,0,181066,13805306
+01-12-21,Karnataka,29,Bangalore Airport,Israel,O1,Other Misc. Engineering Items,None,0,257688,19422481
+01-02-23,Tamil Nadu,33,Chennai Air,Spain,M2,Oth Non Ferous Metal And Prodc,Kgs,71,5257,434246
+01-07-20,Gujarat,24,"Hazira Port, Surat",Italy,J9,"Paper, Paper Board And Product",None,0,74121,5558596
+01-10-23,Tamil Nadu,33,Chennai Epz,Singapore,I7,Residul Chemicl And Alled Prod,None,0,182370,15179636
+01-09-23,Maharashtra,27,Dpcc Mumbai,Canada,G5,"Pearl, Precs, Semiprecs Stones",None,0,150691,12514488
+01-07-22,Karnataka,29,Bangalore Airport,Belgium,K7,Packaging Materials,Ton,0,4,291
+01-04-22,Maharashtra,27,Nhava Sheva Sea,Slovenia,H1,Sports Goods,None,0,5053,384875
+01-01-22,West Bengal,19,Kolkata Sea,Bulgaria,I2,Inorganic Chemicals,Kgs,840000,227392,16927437
+01-05-19,Karnataka,29,Bangalore Airport,France,H5,"Bulk Drugs, Drug Intermediates",Kgs,161,694468,48455200
+01-08-18,Andhra Pradesh,28,Sri City Pvt Ltd,Poland,N6,Indl. Machnry For Dairy Etc,None,0,51128,3555799
+01-10-23,Uttar Pradesh,9,Sez Noida,Germany,K6,Moulded And Extruded Goods,None,0,15169,1262576
+01-11-22,Punjab,3,Icd Chowpayal,Tanzania Rep,L3,Iron And Steel,Ton,71,34385,2813017
+01-08-23,Maharashtra,27,Seepz,Israel,J6,Glass And Glassware,None,0,252,20900
+01-08-21,Maharashtra,27,Seepz,Netherland,J9,"Paper, Paper Board And Product",None,0,1,75
+01-07-23,Maharashtra,27,Nhava Sheva Sea,Taiwan,F2,Bulk Minerals And Ores,Kgs,95834,482926,39673278
+01-03-21,Karnataka,29,Bangalore Airport,Netherland,L2,Other Plastic Items,None,0,6879,500721
+01-06-23,West Bengal,19,Kolkata Air,Puerto Rico,I9,Othr Rubber Prodct Excpt Footw,None,0,1130,92933
+01-07-20,Karnataka,29,Bangalore Airport,Belgium,L8,"Nickel, Product Made Of Nickel",Ton,0,3771,282783
+01-04-19,Maharashtra,27,Nhava Sheva Sea,Israel,Q3,"Manmade Yarn,Fabrics,Madeups",None,0,13007,903025
+01-09-22,Uttar Pradesh,9,Sez Noida,China P Rp,G5,"Pearl, Precs, Semiprecs Stones",None,0,6894,553105
+01-01-23,Uttar Pradesh,9,Icd Noida-Dadri,Korea Rp,L6,Copper And Prdcts Made Of Copr,None,0,447873,36680638
+01-10-19,Delhi,7,Delhi Air,Philippines,Q8,Rmg Manmade Fibres,None,0,2568,182408
+01-10-19,Delhi,7,Delhi (Icd),Vietnam Soc Rep,M6,"Hnd Tool, Cttng Tool Of Metals",None,0,11138,791256
+01-03-19,Kerala,32,Trivandrum Airport,Hong Kong,P3,Electronics Instruments,None,0,130397,9059812
+01-12-18,Delhi,7,Delhi Air,U Arab Emts,N4,Electric Machinery And Equipme,None,0,698383,49397384
+01-08-18,Maharashtra,27,Mumbai Air,Netherland,N6,Indl. Machnry For Dairy Etc,None,0,812885,56533307
+01-02-19,Tamil Nadu,33,Chennai Sea,Netherland,J8,Newsprint,Ton,25,16545,1178390
+01-12-22,Gujarat,24,Icd Sabarmati,Germany,L5,"Aluminium, Products Of Aluminm",Ton,326,728039,60037130
+01-07-22,Tamil Nadu,33,Elec Corp Tn Kanchepuram,U K,P1,Consumer Electronics,None,0,11551,919496
+01-11-20,Delhi,7,Delhi Air,Japan,K1,Plywood And Allied Products,None,0,1580,117236
+01-05-22,Delhi,7,Delhi Air,Indonesia,M3,Auto Components/Parts,None,0,31202,2412511
+01-01-24,West Bengal,19,Kolkata Air,China P Rp,K9,"Plastc Sht, Film, Plts Etc",Kgs,1545,15173,1261182
+01-10-23,Rajasthan,8,Icd Kanakpura,Saudi Arab,L7,Lead And Products Made Of Led,Ton,47,122706,10213460
+01-12-21,Delhi,7,Delhi (Icd),France,D2,Cereal Preparations,Ton,0,502,37825
+01-02-20,Haryana,6,Icd Piyala Ballagarh,Malaysia,K8,Plastic Raw Materials,Ton,25,25550,1826538
+01-02-18,Gujarat,24,Mundra,Belgium,O6,"Railwy Trnsprt Equipmnts, Prts",None,0,5002,322000
+01-05-21,Maharashtra,27,"Arshiya Intl. Ftwz-Sez, Raigad",U S A,P4,Telecom Instruments,None,0,418703,30677400
+01-11-23,Gujarat,24,Epz/Sez Surat,Switzerland,K7,Packaging Materials,Ton,0,30,2523
+01-02-24,Uttar Pradesh,9,Cgml Dadri,Brazil,I3,Organic Chemicals,Kgs,36000,259887,21561120
+01-01-18,Karnataka,29,Bangalore Airport,Israel,ZZ,Other Commodities,None,0,5644,359137
+01-12-19,Karnataka,29,Icd Bangalore,China P Rp,Q8,Rmg Manmade Fibres,None,0,323663,23042411
+01-06-18,Gujarat,24,Ahmedabad Air Cargo Complex,U K,M2,Oth Non Ferous Metal And Prodc,None,0,3289,222997
+01-07-22,Haryana,6,Icd Garhiharsaru,Philippines,K9,"Plastc Sht, Film, Plts Etc",Kgs,786,3378,268894
+01-02-19,Tamil Nadu,33,Chennai Air,U S A,Q3,"Manmade Yarn,Fabrics,Madeups",None,0,93056,6627629
+01-03-18,Tamil Nadu,33,Icd Irungattukottai,Turkey,N6,Indl. Machnry For Dairy Etc,None,0,133527,8682115
+01-09-19,Tamil Nadu,33,Hi Tech Infra P Ltd Coimbatore,U S A,O2,Prime Mica And Mica Products,None,0,1812,129234
+01-01-21,Gujarat,24,Mundra,Vietnam Soc Rep,I2,Inorganic Chemicals,Kgs,1125000,291976,21346217
+01-12-21,Maharashtra,27,"Arshiya Intl. Ftwz-Sez, Raigad",Russia,N4,Electric Machinery And Equipme,None,0,3648,274976
+01-09-19,Maharashtra,27,Nhava Sheva Sea,Mexico,F4,Processed Minerals,Kgs,154500,193163,13779009
+01-01-24,Telangana,36,Hyderabad Airport,Germany,J5,Ceramics And Allied Products,None,0,47941,3984880
+01-03-24,Kerala,32,Cessana Business Park Cochin,Vietnam Soc Rep,O9,"Computer Hardware, Peripherals",None,0,9255,768173
+01-09-21,Maharashtra,27,Mumbai Sea,Italy,M7,Machine Tools,None,0,887022,65252352
+01-12-22,Tamil Nadu,33,Chennai Air,Hong Kong,L5,"Aluminium, Products Of Aluminm",Ton,1,301143,24833584
+01-02-18,Haryana,6,Icd Faridabad,Thailand,I8,Auto Tyres And Tubes,Nos,536,75530,4862153
+01-01-19,Haryana,6,Icd Garhiharsaru,Singapore,N1,"Ac, Refrigeration Machnry Etc",None,0,167316,11834779
+01-11-23,Tamil Nadu,33,Suzlon Ap Infra Sez Coimbatore,Belgium,M3,Auto Components/Parts,None,0,52,4304
+01-04-19,Haryana,6,Icd Garhiharsaru,Israel,Q8,Rmg Manmade Fibres,None,0,5011,347928
+01-06-22,Maharashtra,27,Mumbai Air,Austria,H5,"Bulk Drugs, Drug Intermediates",Kgs,4283,337400,26342377
+01-07-20,Kerala,32,Cochin Airport,Singapore,S6,Petroleum Products,Ton,0,489,36689
+01-03-19,West Bengal,19,Kolkata Sea,Singapore,L3,Iron And Steel,Ton,609,739609,51386985
+01-09-22,Gujarat,24,Mundra,Turkey,L4,Products Of Iron And Steel,None,0,157263,12617471
+01-12-19,Karnataka,29,Icd Bangalore,Hong Kong,K9,"Plastc Sht, Film, Plts Etc",Kgs,21474,267066,19013116
+01-06-21,Karnataka,29,Bangalore Airport,Denmark,O9,"Computer Hardware, Peripherals",None,0,3141,231060
+01-02-22,West Bengal,19,Kolkata Air,Japan,F8,Finished Leather,Kgs,79,795,59608
+01-07-18,Delhi,7,Cfs Patparganj,U S A,ZZ,Other Commodities,None,0,151676,10419149
+01-05-24,Tamil Nadu,33,Chennai Sea,Vietnam Soc Rep,H5,"Bulk Drugs, Drug Intermediates",Kgs,17600,257862,21505579
+01-09-23,Haryana,6,Icd Sonipat,Sweden,J9,"Paper, Paper Board And Product",None,0,1019901,84700268
+01-02-18,Gujarat,24,Ahmedabad Air Cargo Complex,Japan,J2,"Paint, Varnish And Allid Prodc",Kgs,43,1249,80431
+01-01-24,Haryana,6,Icd Faridabad,China P Rp,ZZ,Other Commodities,None,0,576164,47891346
+01-06-23,Tamil Nadu,33,J Matadee Chennai,Spain,P4,Telecom Instruments,None,0,911,74893
+01-03-22,Telangana,36,Hyderabad Airport,Japan,N7,"Atm, Injctng Mlding Mchnry Etc",Kgs,2,2305,175768
+01-10-23,Gujarat,24,Sez Mundra,Turkey,J6,Glass And Glassware,None,0,547,45529
+01-06-18,Telangana,36,Hyderabad Airport,Malaysia,O1,Other Misc. Engineering Items,None,0,488,33112
+01-04-19,Maharashtra,27,Telegaon,China P Rp,I9,Othr Rubber Prodct Excpt Footw,None,0,76,5273
+01-11-18,Punjab,3,Icd Ludhiana,Taiwan,N4,Electric Machinery And Equipme,None,0,3837,275681
+01-11-20,Gujarat,24,Mega It Sez Gidc Gandhinagar,Czech Republic,J6,Glass And Glassware,None,0,2081,154457
+01-06-19,Rajasthan,8,"Icd Thar Dry Port, Jodhpur",China P Rp,P2,Electronics Components,None,0,9440290,655523353
+01-08-21,Maharashtra,27,Nhava Sheva Sea,Denmark,I5,Cosmetics And Toiletries,Kgs,10560,15303,1135219
+01-02-23,West Bengal,19,Kolkata Air,U S A,M4,Electrodes,Kgs,15,6986,577072
+01-12-23,Delhi,7,Delhi (Icd),Thailand,J5,Ceramics And Allied Products,None,0,63628,5298832
+01-05-19,Haryana,6,Icd Patli,Hong Kong,P2,Electronics Components,None,0,129784,9055432
+01-12-23,Uttar Pradesh,9,"Icd Panki, Up",U Arab Emts,F2,Bulk Minerals And Ores,Kgs,766020,76106,6338018
+01-11-18,Maharashtra,27,Seepz,U S A,K8,Plastic Raw Materials,Ton,0,10405,747608
+01-03-19,Maharashtra,27,Nhava Sheva Sea,Australia,O6,"Railwy Trnsprt Equipmnts, Prts",None,0,98336,6832225
+01-04-22,West Bengal,19,Kolkata Sea,Vietnam Soc Rep,P3,Electronics Instruments,None,0,140975,10737724
+01-10-21,Telangana,36,"Gmr Hyd. Aviation Ltd, Sez",Singapore,L8,"Nickel, Product Made Of Nickel",Ton,0,30,2261
+01-05-21,Andhra Pradesh,28,Visakhapatnam Spl Economic Zon,China P Rp,J9,"Paper, Paper Board And Product",None,0,214,15696
+01-10-23,Tamil Nadu,33,Chennai Air,Hong Kong,J1,Footwear Of Rubber/Canvas Etc.,None,0,8309,691598
+01-04-21,Delhi,7,Delhi Air,Austria,P3,Electronics Instruments,None,0,1198785,89276214
+01-12-18,Kerala,32,Cochin Airport,U S A,N1,"Ac, Refrigeration Machnry Etc",None,0,109639,7754915
+01-03-20,Haryana,6,Icd Patli,Japan,L3,Iron And Steel,Ton,25,58574,4355024
+01-10-19,Maharashtra,27,Mumbai Sea,Italy,L3,Iron And Steel,Ton,156,231303,16431604
+01-02-24,Maharashtra,27,Dighi Port Mumbai,Oman,S6,Petroleum Products,Ton,5991,2097819,174042622
+01-01-20,Tamil Nadu,33,Sipct Ele Hw Hite Sez Oragadam,Israel,L6,Copper And Prdcts Made Of Copr,None,0,1588,113256
+01-12-22,Telangana,36,Hyderabad Airport,U K,E6,Alcoholic Beverages,Ltr,600,15767,1300225
+01-12-22,Uttar Pradesh,9,Cfs Startrack Dadri,China P Rp,O9,"Computer Hardware, Peripherals",None,0,48137,3969600
+01-05-24,Tamil Nadu,33,Chennai Air,Czech Republic,P2,Electronics Components,None,0,302810,25254202
+01-12-21,West Bengal,19,Kolkata Sea,Canada,I2,Inorganic Chemicals,Kgs,6000,19014,1433138
+01-12-22,Madhya Pradesh,23,Icd Dhannad,Mozambique,L3,Iron And Steel,Ton,344,162952,13437733
+01-11-21,Karnataka,29,Bangalore Airport,China P Rp,I7,Residul Chemicl And Alled Prod,None,0,4439570,330732393
+01-05-24,Gujarat,24,Icd Sabarmati,Japan,M3,Auto Components/Parts,None,0,547815,45687461
+01-09-22,Delhi,7,Delhi Air,Turkey,P9,"Oth Txtl Yrn, Fbric Mdup Artcl",None,0,10847,870310
+01-09-19,Haryana,6,Icd Patli,Japan,L2,Other Plastic Items,None,0,214110,15273250
+01-03-19,Delhi,7,Cfs Patparganj,Japan,M9,Office Equipments,None,0,21380,1485472
+01-01-21,Gujarat,24,Mundra,Qatar,I9,Othr Rubber Prodct Excpt Footw,None,0,69418,5075144
+01-10-19,Maharashtra,27,Nhava Sheva Sea,Poland,L5,"Aluminium, Products Of Aluminm",Ton,9,612355,43501364
+01-02-21,Tamil Nadu,33,Kattupalli Port/ Tiruvallur,Germany,M3,Auto Components/Parts,None,0,5978558,434978943
+01-05-18,West Bengal,19,Kolkata Air,China P Rp,G5,"Pearl, Precs, Semiprecs Stones",None,0,13303,898491
+01-05-22,Karnataka,29,Bangalore Airport,Denmark,P2,Electronics Components,None,0,309856,23957892
+01-10-18,Gujarat,24,Mundra,South Africa,M1,Zinc And Products Made Of Zinc,Ton,41,86012,6333227
+01-08-21,Maharashtra,27,Icd Tumb,Turkey,J9,"Paper, Paper Board And Product",None,0,262925,19505007
+01-05-23,Maharashtra,27,Mumbai Air,Mexico,K9,"Plastc Sht, Film, Plts Etc",Kgs,353,31926,2628873
+01-12-21,Uttar Pradesh,9,Cgml Dadri,Netherland,L6,Copper And Prdcts Made Of Copr,None,0,69979,5274525
+01-10-23,Gujarat,24,Epz/Sez Surat,Taiwan,P2,Electronics Components,None,0,422460,35163621
+01-10-22,Maharashtra,27,Seepz,Poland,P2,Electronics Components,None,0,46,3817
+01-09-18,Gujarat,24,"Pharma Dev By Zydus, Ahmedabad",Belgium,H8,"Drug Formulations, Biologicals",Kgs,2,1603,115740
+01-03-24,West Bengal,19,Kolkata Air,Netherland,O9,"Computer Hardware, Peripherals",None,0,148647,12337296
+01-06-24,Karnataka,29,Kiadb Pharmaceutical Sez,China P Rp,N1,"Ac, Refrigeration Machnry Etc",None,0,67,5564
+01-10-23,Delhi,7,Delhi (Icd),Germany,L3,Iron And Steel,Ton,0,824,68579
+01-01-21,Maharashtra,27,Nhava Sheva Sea,Japan,B1,Spices,Kgs,198,1810,132323
+01-11-21,West Bengal,19,Kolkata Sea,Brazil,I7,Residul Chemicl And Alled Prod,None,0,156763,11678306
+01-04-23,Tamil Nadu,33,Chennai Sea,Netherland,P1,Consumer Electronics,None,0,1206,98956
+01-07-21,Delhi,7,Delhi Air,Netherland,H1,Sports Goods,None,0,7685,572761
+01-12-18,Uttar Pradesh,9,"Icd Panki, Up",China P Rp,M6,"Hnd Tool, Cttng Tool Of Metals",None,0,907,64162
+01-02-21,Maharashtra,27,Nhava Sheva Sea,Korea Rp,N2,Bicycle And Parts,None,0,2737,199148
+01-05-22,West Bengal,19,Kolkata Sea,Germany,L6,Copper And Prdcts Made Of Copr,None,0,597719,46215229
+01-02-19,Gujarat,24,Mundra,Nigeria,H4,Ayush And Herbal Products,Kgs,6000,8552,609063
+01-06-18,Tamil Nadu,33,Sipct Ele Hw Hite Sez Oragadam,China P Rp,N7,"Atm, Injctng Mlding Mchnry Etc",None,0,494,33517
+01-07-20,Tamil Nadu,33,Icd Tuticorin,Japan,N6,Indl. Machnry For Dairy Etc,None,0,521768,39129175
+01-07-24,Karnataka,29,Bangalore Airport,Netherland,O9,"Computer Hardware, Peripherals",None,0,647901,54161066
+01-08-23,Karnataka,29,Quest Sez Balgaom Karnataka,Poland,L4,Products Of Iron And Steel,None,0,90359,7480421
+01-05-18,West Bengal,19,Kolkata Sea,Korea Rp,S6,Petroleum Products,Ton,1,7393,499300
+01-01-19,Delhi,7,Delhi (Icd),Thailand,J7,"Books, Publications And Prntng",None,0,95028,6721595
+01-02-24,Delhi,7,Delhi Air,Australia,E7,Marine Products,Kgs,5224,65125,5402983
+01-02-22,Maharashtra,27,Nhava Sheva Sea,Germany,I3,Organic Chemicals,Kgs,1653340,7724790,579383339
+01-01-18,Maharashtra,27,"Arshiya Intl. Ftwz-Sez, Raigad",China P Rp,H7,Dyes,Kgs,3000,16268,1035225
+01-09-18,Punjab,3,Amritsar Rly.Stn.,Pakistan Ir,O1,Other Misc. Engineering Items,None,0,390,28187
+01-06-21,Maharashtra,27,Nhava Sheva Sea,Ethiopia,B7,Other Oil Seeds,Ton,7160,6233799,458547631
+01-07-20,Gujarat,24,Icd Sabarmati,Austria,N4,Electric Machinery And Equipme,None,0,91359,6851334
+01-11-22,Gujarat,24,Mundra,Morocco,Q4,"Wool, Raw",Kgs,74330,35816,2930130
+01-08-22,Telangana,36,"Gmr Hyd. Aviation Ltd, Sez",Israel,P2,Electronics Components,None,0,25316,2014052
+01-09-21,Tamil Nadu,33,Mahindra City Auto Anci Sez Tn,Switzerland,M6,"Hnd Tool, Cttng Tool Of Metals",None,0,6540,481087
+01-11-19,Karnataka,29,Bangalore Airport,Russia,N6,Indl. Machnry For Dairy Etc,None,0,30088,2149855
+01-12-22,Haryana,6,Icd Samalkha Panipat,China P Rp,Q8,Rmg Manmade Fibres,None,0,3572,294585
+01-08-23,Uttarakhand,5,Icd Sandkheda Kashipur,Nigeria,K8,Plastic Raw Materials,Ton,34,14895,1233121
+01-03-20,Maharashtra,27,Nhava Sheva Sea,Singapore,I6,Essential Oils,Kgs,15605,228218,16968199
+01-05-22,Karnataka,29,Bangalore Airport,Japan,K6,Moulded And Extruded Goods,None,0,181914,14065468
+01-04-24,Delhi,7,Delhi Air,Ireland,H5,"Bulk Drugs, Drug Intermediates",Kgs,450,6234,519937
+01-09-19,Maharashtra,27,Nhava Sheva Sea,Italy,I7,Residul Chemicl And Alled Prod,None,0,11691076,833967691
+01-09-18,Tamil Nadu,33,J Matadee Chennai,Malaysia,K1,Plywood And Allied Products,None,0,301972,21806999
+01-04-24,Uttar Pradesh,9,Star Track Terminal Pvt Ltd Ic,U Arab Emts,L5,"Aluminium, Products Of Aluminm",Ton,263,513989,42869696
+01-12-18,Uttar Pradesh,9,Cfs Startrack Dadri,Brazil,L3,Iron And Steel,Ton,28,15804,1117813
+01-04-23,Gujarat,24,Sez Mundra,Netherland,I5,Cosmetics And Toiletries,Kgs,9000,1046964,85872798
+01-05-21,Kerala,32,Sez Cochin,Indonesia,P2,Electronics Components,None,0,1880,137750
+01-04-19,Tamil Nadu,33,Sipct Ele Hw Hite Sez Oragadam,Netherland,O1,Other Misc. Engineering Items,None,0,58253,4044373
+01-01-22,Maharashtra,27,Mumbai Air,Vietnam Soc Rep,N4,Electric Machinery And Equipme,None,0,55447,4127558
+01-02-18,West Bengal,19,Kolkata Air,Korea Rp,L6,Copper And Prdcts Made Of Copr,None,0,11840,762200
+01-12-23,Rajasthan,8,Jaipur A.C.,U S A,G9,Gold And Oth Precs Metl Jwlery,Kgs,35242,527615,43939011
+01-10-21,Haryana,6,Icd Faridabad,China P Rp,I2,Inorganic Chemicals,Kgs,104000,49724,3725059
+01-11-18,Karnataka,29,Icd Bangalore,Sri Lanka Dsr,J1,Footwear Of Rubber/Canvas Etc.,None,0,15834,1137704
+01-03-22,Tamil Nadu,33,Chennai Air,Japan,E4,Floricltr Products,Kgs,6,1302,99254
+01-10-19,Maharashtra,27,Mumbai Air,Hong Kong,I4,Other Miscellaenious Chemicals,Kgs,4,1840,130741
+01-12-22,Gujarat,24,Ahmedabad Air Cargo Complex,U S A,H5,"Bulk Drugs, Drug Intermediates",Kgs,93,92073,7592743
+01-12-22,Delhi,7,Cfs Patparganj,Denmark,ZZ,Other Commodities,None,0,13448,1108989
+01-05-20,Telangana,36,Hyderabad Airport,U S A,E6,Alcoholic Beverages,Ltr,840,17553,1328061
+01-07-24,West Bengal,19,Kolkata Air,Germany,H1,Sports Goods,None,0,9302,777593
+01-12-23,Maharashtra,27,Mumbai Sea,China P Rp,F3,"Granit, Natrl Stone And Prodct",Kgs,288,214,17860
+01-05-22,Maharashtra,27,Nhava Sheva Sea,Russia,K1,Plywood And Allied Products,None,0,652323,50437134
+01-08-22,Haryana,6,Icd Garhiharsaru,Korea Rp,N7,"Atm, Injctng Mlding Mchnry Etc",Kgs,82850,1142898,90923250
+01-12-20,Karnataka,29,Icd Bangalore,Sweden,M3,Auto Components/Parts,None,0,30864,2271368
+01-11-23,Maharashtra,27,Nhava Sheva Sea,Indonesia,I3,Organic Chemicals,Kgs,4724174,6503015,541688122
+01-04-18,Karnataka,29,Biocon Ltd Sez Karnataka,U S A,S1,Handcrfs(Excl.Handmade Crpts),None,0,770,50534
+01-05-20,Maharashtra,27,Icd Borkhedi,Unspecified,S4,Cotton Raw Incld. Waste,Ton,25,19373,1465752
+01-06-23,Gujarat,24,Mundra,Romania,K2,Other Wood And Wood Products,None,0,27908,2294954
+01-02-22,Tamil Nadu,33,Chennai Air,Korea Rp,I5,Cosmetics And Toiletries,Kgs,294,21556,1616740
+01-08-23,Telangana,36,Hyderabad Airport,U K,N3,"Cranes, Lifts And Winches",None,0,2927,242343
+01-09-18,Tamil Nadu,33,Chennai Air,Italy,F3,"Granit, Natrl Stone And Prodct",Kgs,47,9339,674436
+01-01-20,Tamil Nadu,33,Chennai Sea,China P Rp,L4,Products Of Iron And Steel,None,0,16762421,1195391973
+01-12-22,West Bengal,19,Kolkata Air,U K,S1,Handcrfs(Excl.Handmade Crpts),None,0,7020,578927
+01-06-24,Rajasthan,8,Icd Kanakpura,Thailand,K1,Plywood And Allied Products,None,0,112083,9355709
+01-02-20,Maharashtra,27,Nhava Sheva Sea,U S A,M7,Machine Tools,None,0,2862450,204632226
+01-06-18,West Bengal,19,Kolkata Air,France,I7,Residul Chemicl And Alled Prod,None,0,1682,114016
+01-02-21,Kerala,32,Cochin Sea,Vietnam Soc Rep,J5,Ceramics And Allied Products,None,0,67045,4877961
+01-04-18,Tamil Nadu,33,Chennai Sea,Canada,N5,Ic Engines And Parts,None,0,7340241,481786245
+01-11-19,Delhi,7,Delhi Air,Japan,F6,Other Crude Minerals,Kgs,403,7750,553779
+01-01-19,Delhi,7,Delhi Air,Czech Republic,N6,Indl. Machnry For Dairy Etc,None,0,19031,1346101
+01-10-20,Gujarat,24,"Hazira Port, Surat",Italy,L3,Iron And Steel,Ton,70,165493,12156817
+01-11-18,Delhi,7,Delhi (Icd),Spain,F4,Processed Minerals,Kgs,25000,7999,574777
+01-07-24,Maharashtra,27,Mumbai Air,Turkey,I7,Residul Chemicl And Alled Prod,None,0,12355,1032795
+01-01-19,Delhi,7,Delhi Air,Hong Kong,I4,Other Miscellaenious Chemicals,Kgs,1,26189,1852399
+01-03-24,Tamil Nadu,33,Chennai Sea,Taiwan,O9,"Computer Hardware, Peripherals",None,0,10857908,901180238
+01-06-22,Andhra Pradesh,28,Ramki Pharma City (India) Pvt,Belgium,I7,Residul Chemicl And Alled Prod,None,0,18,1424
+01-01-19,Maharashtra,27,Seepz,Switzerland,K9,"Plastc Sht, Film, Plts Etc",Kgs,1,1278,90422
+01-12-23,Kerala,32,Trivandrum Airport,Japan,O3,Pumps Of All Types,None,0,3920,326424
+01-11-21,Tamil Nadu,33,Chennai Epz,U S A,O2,Prime Mica And Mica Products,None,0,16605,1237029
+01-01-21,Delhi,7,Cfs Patparganj,Germany,O1,Other Misc. Engineering Items,None,0,486906,35597369
+01-06-20,Tamil Nadu,33,Sipct Ele Hw Hite Sez Oragadam,U Arab Emts,L5,"Aluminium, Products Of Aluminm",Ton,0,125,9482
+01-03-24,Delhi,7,Cfs Patparganj,China P Rp,O2,Prime Mica And Mica Products,None,0,680379,56469838
+01-12-18,Uttar Pradesh,9,Sez Moradabad,Baharain Is,L5,"Aluminium, Products Of Aluminm",Ton,114,289500,20476627
+01-03-23,Punjab,3,"Icd Sahnewal, Grfl",Sri Lanka Dsr,N2,Bicycle And Parts,None,0,60939,5014561
+01-01-19,Tamil Nadu,33,Chennai Air,France,N1,"Ac, Refrigeration Machnry Etc",None,0,451940,31967004
+01-11-20,Karnataka,29,Icd Bangalore,Spain,O1,Other Misc. Engineering Items,None,0,13430,996784
+01-12-21,Haryana,6,Icd Garhiharsaru,Malaysia,K8,Plastic Raw Materials,Ton,542,1273912,96017898
+01-11-18,Rajasthan,8,Icd Kanakpura,Qatar,J9,"Paper, Paper Board And Product",None,0,60582,4353077
+01-07-24,Uttar Pradesh,9,Icd Agra,China P Rp,K6,Moulded And Extruded Goods,None,0,29610,2475261
+01-09-22,Maharashtra,27,Cfs Nashik,U Arab Emts,D5,Misc Processed Items,None,0,44639,3581424
+01-07-19,Maharashtra,27,Nhava Sheva Sea,Germany,S6,Petroleum Products,Ton,350,850449,58517963
+01-09-22,Maharashtra,27,Nhava Sheva Sea,Malaysia,K2,Other Wood And Wood Products,None,0,131796,10574165
+01-08-21,Karnataka,29,Icd Bangalore,U Arab Emts,O1,Other Misc. Engineering Items,None,0,1878,139339
+01-01-18,West Bengal,19,Kolkata Air,China P Rp,H7,Dyes,Kgs,1120,15053,957906
+01-08-22,Maharashtra,27,Nhava Sheva Sea,Sri Lanka Dsr,Q8,Rmg Manmade Fibres,None,0,283705,22570166
+01-06-20,Maharashtra,27,Mumbai Air,Spain,P3,Electronics Instruments,None,0,96195,7284566
+01-10-19,Kerala,32,Cochin Sea,China P Rp,Q3,"Manmade Yarn,Fabrics,Madeups",None,0,340015,24154442
+01-08-18,Telangana,36,Lanco Hills Tech Prk Manikonda,Korea Rp,N6,Indl. Machnry For Dairy Etc,None,0,26231,1824240
+01-11-22,Haryana,6,Icd Piyala Ballagarh,China P Rp,F9,Leather Goods,None,0,7233,591747
+01-04-22,Delhi,7,Delhi Air,Thailand,L4,Products Of Iron And Steel,None,0,95544,7277409
+01-04-20,Karnataka,29,Icd Bangalore,Thailand,I9,Othr Rubber Prodct Excpt Footw,None,0,169163,12896424
+01-06-21,Maharashtra,27,Mumbai Air,Hong Kong,J9,"Paper, Paper Board And Product",None,0,45585,3353159
+01-05-19,Maharashtra,27,Serum Bio Pharm Park  Sez Pune,U S A,M6,"Hnd Tool, Cttng Tool Of Metals",None,0,606,42269
+01-12-20,West Bengal,19,Petrapole Land,Bangladesh Pr,P8,"Cotton Fabrics, Madeups Etc.",None,0,5179042,381144359
+01-12-23,Telangana,36,Hyderabad Airport,Germany,P1,Consumer Electronics,None,0,65144,5425070
+01-12-18,Andhra Pradesh,28,Brandix Indiaapparel Pvt Ltd,Hong Kong,H7,Dyes,Kgs,21930,98281,6951530
+01-03-18,Kerala,32,Cochin Sea,China P Rp,O5,Motor Vehicle/Cars,Nos,3,22871,1487132
+01-05-19,Karnataka,29,Icd Bangalore,Singapore,P3,Electronics Instruments,None,0,261046,18213956
+01-12-19,Delhi,7,Delhi (Icd),Korea Rp,L3,Iron And Steel,Ton,579,661847,47118619
+01-02-24,West Bengal,19,Kolkata Sea,U K,M2,Oth Non Ferous Metal And Prodc,None,0,119391,9905054
+01-05-23,Maharashtra,27,Nhava Sheva Sea,U Arab Emts,I2,Inorganic Chemicals,Kgs,934739,3271508,269386774
+01-04-18,Tamil Nadu,33,Flextronics Techn Sez  Sriperu,China P Rp,I7,Residul Chemicl And Alled Prod,None,0,21904,1437717
+01-09-22,Gujarat,24,Mundra,Egypt A Rp,F8,Finished Leather,Kgs,6650,82454,6615424
+01-04-18,Maharashtra,27,Seepz,Italy,L6,Copper And Prdcts Made Of Copr,None,0,70770,4645084
+01-12-20,Uttar Pradesh,9,Cfs Albatross/Icd Dadri,Italy,N6,Indl. Machnry For Dairy Etc,None,0,103874,7644476
+01-11-22,Kerala,32,Cochin Sea,U K,L3,Iron And Steel,Ton,2995,1443547,118097299
+01-09-22,Karnataka,29,Bangalore Airport,Germany,M8,Medical And Scientific Instrum,None,0,10680413,856906574
+01-02-24,Tamil Nadu,33,Sipct Ele Hw Hite Sez Oragadam,U S A,J2,"Paint, Varnish And Allid Prodc",Kgs,10,4038,335047
+01-11-22,Telangana,36,Hyderabad Airport,Finland,P4,Telecom Instruments,None,0,11221,918025
+01-07-18,Gujarat,24,Icd Sabarmati,Belgium,Q3,"Manmade Yarn,Fabrics,Madeups",None,0,885,60811
+01-12-18,Rajasthan,8,Jaipur A.C.,U S A,J6,Glass And Glassware,None,0,682,48264
+01-12-18,Tamil Nadu,33,Chennai Air,China P Rp,L5,"Aluminium, Products Of Aluminm",Ton,86,7865998,556370698
+01-03-22,Andhra Pradesh,28,Kakinada Sea,Singapore,N7,"Atm, Injctng Mlding Mchnry Etc",Kgs,40934,1092176,83272424
+01-02-22,Gujarat,24,Mundra,Greece,L3,Iron And Steel,Ton,19,9589,719203
+01-07-22,Gujarat,24,Ahmedabad Air Cargo Complex,Poland,P3,Electronics Instruments,None,0,15561,1238667
+01-10-22,Gujarat,24,Ahmedabad Air Cargo Complex,U K,J2,"Paint, Varnish And Allid Prodc",Kgs,108,3466,285413
+01-12-21,Uttar Pradesh,9,Cgml Dadri,China P Rp,L6,Copper And Prdcts Made Of Copr,None,0,616038,46432291
+01-01-21,Kerala,32,Cochin Airport,Italy,L3,Iron And Steel,Ton,0,1787,130615
+01-10-19,Kerala,32,Cochin Sea,U K,J8,Newsprint,Ton,1417,727800,51702478
+01-11-21,West Bengal,19,Kolkata Air,U S A,I7,Residul Chemicl And Alled Prod,None,0,12865,958365
+01-02-22,Tamil Nadu,33,Suzlon Ap Infra Sez Coimbatore,Denmark,O3,Pumps Of All Types,None,0,160909,12068679
+01-07-19,Delhi,7,Delhi Air,Slovak Rep,P3,Electronics Instruments,None,0,120795,8311687
+01-10-23,Rajasthan,8,Icd Jodhpur,China P Rp,J9,"Paper, Paper Board And Product",None,0,1967,163750
+01-04-18,Andhra Pradesh,28,Sri City Pvt Ltd,U S A,K8,Plastic Raw Materials,Ton,0,2289,150271
+01-07-22,Delhi,7,Delhi Air,U S A,ZZ,Other Commodities,None,0,1122382,89343446
+01-06-23,Tamil Nadu,33,Ennore Sea,Belgium,P1,Consumer Electronics,None,0,1067,87774
+01-10-21,Tamil Nadu,33,Shriram Prop Ipl Perungalathur,Germany,P4,Telecom Instruments,None,0,7253,543373
+01-03-24,Tamil Nadu,33,Chennai Sea,Sri Lanka Dsr,Q3,"Manmade Yarn,Fabrics,Madeups",None,0,29874,2479481
+01-06-19,Punjab,3,Icd Chowpayal,Canada,ZZ,Other Commodities,None,0,652,45281
+01-06-18,Karnataka,29,Icd Bangalore,New Zealand,N7,"Atm, Injctng Mlding Mchnry Etc",None,0,39427,2672897
+01-04-19,Maharashtra,27,Mumbai Air,Portugal,ZZ,Other Commodities,None,0,718,49842
+01-02-20,Karnataka,29,Bangalore Airport,Italy,G1,Leather Garments,Kgs,31,6153,439885
+01-10-19,Tamil Nadu,33,Kattupalli Port/ Tiruvallur,China P Rp,N1,"Ac, Refrigeration Machnry Etc",None,0,811169,57624929
+01-08-23,Telangana,36,"Gmr Hyd. Aviation Ltd, Sez",France,O3,Pumps Of All Types,None,0,183,15130
+01-02-20,Delhi,7,Delhi Air,Belgium,M7,Machine Tools,None,0,15847,1132905
+01-02-24,Karnataka,29,Icd Bangalore,Netherland,O1,Other Misc. Engineering Items,None,0,217525,18046644
+01-01-21,Gujarat,24,Icd Sabarmati,Saudi Arab,L3,Iron And Steel,Ton,202,171217,12517586
+01-05-24,Gujarat,24,Kandla Sea,Colombia,F1,"Coal,Coke And Briquittes Etc",Ton,15000,3084059,257209000
+01-12-19,Puducherry,34,Karikal,Indonesia,F1,"Coal,Coke And Briquittes Etc",Ton,640593,36361271,2588653423
+01-03-22,Telangana,36,Icd Hyderabad,China P Rp,L5,"Aluminium, Products Of Aluminm",Ton,57,374036,28518210
+01-02-24,Maharashtra,27,Nhava Sheva Sea,Switzerland,N7,"Atm, Injctng Mlding Mchnry Etc",Kgs,11,1525,126547
+01-05-18,Gujarat,24,Mundra,Vietnam Soc Rep,M1,Zinc And Products Made Of Zinc,Ton,164,479203,32365112
+01-02-20,Tamil Nadu,33,Chennai Sea,Belgium,P8,"Cotton Fabrics, Madeups Etc.",None,0,30226,2160840
+01-09-21,Tamil Nadu,33,Chennai Air,Denmark,N7,"Atm, Injctng Mlding Mchnry Etc",Kgs,5059,260294,19148140
+01-03-20,Delhi,7,Delhi Air,Korea Rp,I7,Residul Chemicl And Alled Prod,None,0,297561,22123844
+01-11-21,Karnataka,29,Biocon Ltd Sez Karnataka,France,ZZ,Other Commodities,None,0,18123,1350128
+01-02-20,Maharashtra,27,Nhava Sheva Sea,Austria,P3,Electronics Instruments,None,0,14028,1002860
+01-11-18,Gujarat,24,"Hazira Port, Surat",Saudi Arab,I9,Othr Rubber Prodct Excpt Footw,None,0,243932,17527540
+01-11-18,Tamil Nadu,33,Icd Irungattukottai,Hong Kong,M2,Oth Non Ferous Metal And Prodc,None,0,114,8181
+01-10-19,Delhi,7,Delhi (Icd),China P Rp,M4,Electrodes,Kgs,2829,37434,2659305
+01-12-22,Tamil Nadu,33,Chennai Air,Croatia,I4,Other Miscellaenious Chemicals,Kgs,0,13,1065
+01-02-24,Tamil Nadu,33,Chennai Air,Netherland,F8,Finished Leather,Kgs,4885,175438,14554950
+01-10-23,Maharashtra,27,Nhava Sheva Sea,Japan,E9,Mica,Kgs,1440,5468,455145
+01-06-23,Maharashtra,27,Jnehru Port Trust,Mexico,E6,Alcoholic Beverages,Ltr,12452,198264,16304023
+01-02-22,Delhi,7,Delhi (Icd),Korea Rp,J2,"Paint, Varnish And Allid Prodc",Kgs,25609,214371,16078466
+01-04-19,Maharashtra,27,Icd Tumb,Taiwan,K8,Plastic Raw Materials,Ton,405,660637,45866338
+01-11-23,Haryana,6,Icd Sonipat,Ireland,L5,"Aluminium, Products Of Aluminm",Ton,21,35622,2967216
+01-05-19,Delhi,7,Delhi Air,Belgium,H7,Dyes,Kgs,1680,19289,1345843
+01-08-21,Delhi,7,Cfs Patparganj,Romania,I9,Othr Rubber Prodct Excpt Footw,None,0,5941,440728
+01-01-22,Gujarat,24,Ahmedabad Air Cargo Complex,Italy,N4,Electric Machinery And Equipme,None,0,33957,2527832
+01-01-19,Haryana,6,"Icd Palwal, Bhagola-Janauli",Kuwait,L5,"Aluminium, Products Of Aluminm",Ton,17,30939,2188380
+01-02-23,Tamil Nadu,33,Chennai Air,Poland,P2,Electronics Components,None,0,114858,9488300
+01-03-21,Uttar Pradesh,9,Cfs Albatross/Icd Dadri,Hong Kong,L6,Copper And Prdcts Made Of Copr,None,0,176971,12882216
+01-12-18,Tamil Nadu,33,Chennai Air,Japan,S6,Petroleum Products,Ton,0,5776,408523
+01-03-24,Kerala,32,Cochin Airport,Germany,K9,"Plastc Sht, Film, Plts Etc",Kgs,70,5165,428662
+01-09-22,Rajasthan,8,Icd Thar Dry Port,Mauritania,L3,Iron And Steel,Ton,53,35967,2885701
+01-03-18,Kerala,32,Trivandrum Airport,Hungary,O9,"Computer Hardware, Peripherals",None,0,86228,5606641
+01-01-20,Karnataka,29,Icd Bangalore,China P Rp,M9,Office Equipments,None,0,2356,168033
+01-01-24,Maharashtra,27,Nhava Sheva Sea,Finland,K8,Plastic Raw Materials,Ton,50,125208,10407375
+01-04-24,Haryana,6,Icd Sonipat,Malaysia,J9,"Paper, Paper Board And Product",None,0,32864,2741031
+01-09-20,Gujarat,24,"Pharma Dev By Zydus, Ahmedabad",U S A,L4,Products Of Iron And Steel,None,0,83,6072
+01-04-19,Haryana,6,Icd Garhiharsaru,Japan,H9,Agro Chemicals,Kgs,2700,20770,1441990
+01-04-20,Tamil Nadu,33,Chennai Sea,U K,N1,"Ac, Refrigeration Machnry Etc",None,0,12527,955042
+01-03-19,Maharashtra,27,Mumbai Sea,Hong Kong,L3,Iron And Steel,Ton,1030,2211598,153658752
+01-09-19,Tamil Nadu,33,Suzlon Ap Infra Sez Coimbatore,China P Rp,M2,Oth Non Ferous Metal And Prodc,None,0,23,1655
+01-11-18,Kerala,32,Sez Cochin,Switzerland,M8,Medical And Scientific Instrum,None,0,6666,479001
+01-10-21,Maharashtra,27,Mumbai Air,Czech Republic,H7,Dyes,Kgs,300,35580,2665466
+01-08-21,Tamil Nadu,33,Tuticorin Sea,Australia,L3,Iron And Steel,Ton,43,23496,1743052
+01-07-19,Telangana,36,Hyderabad Airport,Ukraine,H8,"Drug Formulations, Biologicals",Kgs,0,1520,104616
+01-01-21,Karnataka,29,Bangalore Airport,Turkey,N6,Indl. Machnry For Dairy Etc,None,0,54419,3978545
+01-10-19,Maharashtra,27,Mumbai Air,Korea Rp,K6,Moulded And Extruded Goods,None,0,110843,7874237
+01-02-22,Tamil Nadu,33,Ennore Sea,China P Rp,P3,Electronics Instruments,None,0,1072015,80404446
+01-12-22,Maharashtra,27,Nhava Sheva Sea,U Arab Emts,O3,Pumps Of All Types,None,0,1047760,86402612
+01-05-23,Gujarat,24,Sez Dahej,Russia,I7,Residul Chemicl And Alled Prod,None,0,35816,2949216
+01-09-18,Maharashtra,27,Nhava Sheva Sea,Belgium,L5,"Aluminium, Products Of Aluminm",Ton,406,1816344,131167857
+01-08-19,Haryana,6,Icd Samalkha Panipat,France,K8,Plastic Raw Materials,Ton,3,11969,851539
+01-07-21,Haryana,6,Icd Piyala Ballagarh,Norway,L3,Iron And Steel,Ton,49,81552,6077801
+01-04-24,Gujarat,24,Pipavab(Vicyor),China P Rp,F2,Bulk Minerals And Ores,Kgs,866400,107593,8973924
+01-05-18,Karnataka,29,Bangalore Airport,Romania,L4,Products Of Iron And Steel,None,0,354,23921
+01-01-23,West Bengal,19,Kolkata Air,Sweden,K4,Optical Items (Incl.Lens Etc),None,0,116,9492
+01-06-19,Gujarat,24,Epz/Sez Surat,Italy,O1,Other Misc. Engineering Items,None,0,51824,3598575
+01-02-22,Andhra Pradesh,28,Apiic Limited(Naidupeta),Italy,L4,Products Of Iron And Steel,None,0,14756,1106752
+01-01-19,Maharashtra,27,Icd Tumb,Vietnam Soc Rep,F4,Processed Minerals,Kgs,613000,30747,2174829
+01-12-19,Delhi,7,Delhi Air,Spain,K6,Moulded And Extruded Goods,None,0,43934,3127795
+01-06-23,Uttar Pradesh,9,Icd Pakwara Moradabad/Meerut,Spain,K8,Plastic Raw Materials,Ton,109,51559,4239924
+01-09-22,West Bengal,19,Kolkata Air,U Arab Emts,M6,"Hnd Tool, Cttng Tool Of Metals",None,0,3144,252223
